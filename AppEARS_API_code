@@ -1,0 +1,11 @@
+Login (get token)
+curl --request POST --user dbotis:Image4Daze --header "Content-Length: 0" "https://lpdaacsvc.cr.usgs.gov/appeears/api/login"
+
+List of current tasks
+curl --header "Authorization: Bearer 1jHYu6QKD255y3zObaLudmayQWHtmpD-WFS-thcPm6IhlaR8we6EI7f2jFt9CWuqJurSSOPoYBJltOIdRVk-qg" "https://lpdaacsvc.cr.usgs.gov/appeears/api/task"
+
+Get list of files in bundle
+curl -0 --remote-header-name --header "Authorization: Bearer 1jHYu6QKD255y3zObaLudmayQWHtmpD-WFS-thcPm6IhlaR8we6EI7f2jFt9CWuqJurSSOPoYBJtOIdRVk-qg" --location "https://lpdaacsvc.cr.usgs.gov/appeears/api/bundle/d1d857d4-b77b-4e3d-9dd4-33aef453a11d?pretty=true"
+
+Download from manifest file
+wget --header "Authorization: Bearer TOKEN" -i manifest_filename -w 1
