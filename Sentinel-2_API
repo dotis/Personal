@@ -1,10 +1,8 @@
-Query based on product type and ingestion date:
-wget --no-check-certificate --user ddotisb3 --password MontBay3 --output-document=query_results.txt "https://scihub.copernicus.eu/dhus/search?q=ingestiondate:[NOW-2DAY TO NOW] AND footprint:"intersects(25.5, -80.25)" AND platformname:Sentinel-2 AND producttype:S2MSI2A&rows=100&start=0&format=csv"
+Query based on product type and ingestion date (using filename to specify S2 tile):
+wget --no-check-certificate --user ddotisb3 --password MontBay3 --output-document=query_results.txt "https://scihub.copernicus.eu/dhus/search?q=ingestiondate:[NOW-10DAY TO NOW] AND filename:S2*_MSIL2A_*_*_*_T17RNJ_*.SAFE AND platformname:Sentinel-2 AND producttype:S2MSI2A&rows=100&start=0&format=csv"
 
-
-
-Dwonload from manifest file:
-wget --no-check-certificate --user=ddotisb3 --password=MontBay3 "https://scihub.copernicus.eu/dhus/odata/v1/Products('{UUID}')/ Nodes('{PRODUCT_FILENAME}')/Nodes('manifest.safe')/\$value"
+Dwonload using file UIID:
+wget --content-disposition --continue --user=ddotisb3 --password=MontBay3 "https://scihub.copernicus.eu/dhus/odata/v1/Products('ae1e40f2-6071-451f-ae89-df1f728d3b7f')/\$value"
 
 Or, use dhusget:
 # dhusget.sh [LOGIN OPTIONS]... [SEARCH QUERY OPTIONS]... [SEARCH RESULT OPTIONS]... [DOWNLOAD OPTIONS]...
