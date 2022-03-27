@@ -1,0 +1,28 @@
+Calling sequence for l2gen on S2
+l2gen ifile=/path/S2B_MSIL1C_20190709T112119_N0208_R037_T30TVT_20190709T131959.SAFE/manifest.safe ofile=/path/20190709bis.nc l2prod='Rrs rhos' brdf_opt=0 aer_opt=-9  aer_swir_short=1613 aer_swir_long=2200  aer_wave_short=740 aer_wave_long=865 cirrus_opt=false cloud_thresh=0.018 cloud_wave=2130.0 maskhilt=0
+
+Band wavelengths for S2 A and B:
+            S2A    S2B
+Lambda(1) = 443    442
+Lambda(2) = 492    492
+Lambda(3) = 560    559
+Lambda(4) = 665    665
+Lambda(5) = 704    704
+Lambda(6) = 740    739
+Lambda(7) = 783    780
+Lambda(8) = 835    835
+Lambda(9) = 865    864
+Lambda(10) = 945   943
+Lambda(11) = 1613  1611
+Lambda(12) = 2200  2184
+
+Vicarious calibration on S2A only (for now).
+
+Processing Scheme:
+1. API call to get images
+2. Subset to ROI
+3. Subsample to 10m for each band 
+4. l2gen
+5. l2mapgen? (no need for binning here, use daily images); could use reproject
+6. Prods? - chlor_a, Rrs, adg, aph
+
