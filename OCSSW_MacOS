@@ -1,0 +1,3 @@
+Need to install ocssw manually for many sensors:
+Example for S2A/S2B:
+./install_ocssw --install_dir $HOME/ocssw --tag V2022.0 --msis2a --msis2b
