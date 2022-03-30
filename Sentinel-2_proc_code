@@ -1,5 +1,5 @@
 Calling sequence for l2gen on S2
-l2gen ifile=/path/S2B_MSIL1C_20190709T112119_N0208_R037_T30TVT_20190709T131959.SAFE/manifest.safe ofile=/path/20190709bis.nc l2prod='Rrs rhos' brdf_opt=0 aer_opt=-9  aer_swir_short=1613 aer_swir_long=2200  aer_wave_short=740 aer_wave_long=865 cirrus_opt=false cloud_thresh=0.018 cloud_wave=2130.0 maskhilt=0
+l2gen ifile=/Users/imars_mbp/Downloads/S2B_MSIL1C_20220326T160509_N0400_R054_T17RNJ_20220326T194404.SAFE/manifest.safe ofile=/Users/imars_mbp/Downloads/S2test.nc l2prod='Rrs_vvv chlor_a adg_443_giop aph_443_giop' brdf_opt=0 aer_opt=-9  aer_swir_short=1611 aer_swir_long=2184  aer_wave_short=740 aer_wave_long=865 cirrus_opt=false cloud_thresh=0.018 cloud_wave=2130.0 maskhilt=0
 
 Band wavelengths for S2 A and B:
             S2A    S2B
@@ -26,3 +26,5 @@ Processing Scheme:
 5. l2mapgen? (no need for binning here, use daily images); could use reproject
 6. Prods? - chlor_a, Rrs, adg, aph
 
+export OCSSWROOT=/Users/imars_mbp/Applications/SeaDAS8/ocssw
+source OCSSW_bash.env
