@@ -5,5 +5,11 @@ Many images w/no data. How to find good images?
 Data looks good for June 2020 
 Data only visible with high enough AOD
 Layer height starts around 2200m off Africa, then drops to ~800m by Puerto Rico
-Need to find good images for that and other events
-Compare to CALIPSO
+
+Paper:
+1. Look at VIIRS DT AOD time-series (define "events) since S5P started
+2. Look at weekly ALH composites in summer-fall (look at southern fork as well)
+3. Compare event times, durations
+4. Look at CALIPSO for a set of well-defined events
+
+
