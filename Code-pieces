@@ -1,0 +1,2 @@
+L2 remove ".NRT" on Mac
+rename 's/.NRT././' *.nc
