@@ -1,2 +1,10 @@
-L2 remove ".NRT" on Mac
+L2 remove ".NRT" 
+On Mac:
 rename 's/.NRT././' *.nc
+On servers:
+rename '.NRT.' '.' *.nc
+
+SSHFS Example:
+sshfs dotis@seashell.marine.usf.edu:/home1/scratch/epa/satellite/modis/GOM/download_L2_tmp/ ~/server/remote_gom
+
+wget example:
