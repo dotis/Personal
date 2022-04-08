@@ -1,0 +1,12 @@
+S2/HLS tiles for GoME
+19TCG
+19TCH (Marblehead, Pumphouse, WMSH buoy)
+19TCJ (Biddeford)
+19TDJ (Giant Stairs, Chamberlain, CMSH buoy)
+19TEJ (mid_GoME, EMSH buoys)
+19TEK (Grindstone)
+19TFK (Hamilton)
+20TKM (Atlantic buoy)
+
+Tiles LSTE files come in .tif format with cloud, EMIS, height, LST, LST_err, QC and water mask files
+Water mask file could be used for geolocation correction (maybe not needed?)
