@@ -1,5 +1,6 @@
 ## FK WATER QUALITY
 1. Generate Sen images
-2. Look at individual bands
-3. Look at trends w/depth
-4. 
+  Colors added, make comp plot w/1:1 line
+3. Look at individual bands
+4. Look at trends w/depth
+5. 
