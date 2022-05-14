@@ -6,4 +6,13 @@
   - **FKWQ_stats_analysis_v2021.m**
 3. Look at individual bands
 4. Look at trends w/depth
-5. 
+
+
+### DERM (Biscayne Bay only)
+2015-present
+
+### SERC
+
+
+
+### AOML WS
