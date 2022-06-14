@@ -1,7 +1,7 @@
-### Summer 2022 Water Quality project 
-## Daniel Otis, Vivian Cargille
+## Summer 2022 Gulf of Mexico Water Quality project 
+### Daniel Otis, Vivian Cargille
 
-Goals: 
+## Goals: 
 
 1. Find and perform quality control on in-situ water quality measurements from the GoM.
 
