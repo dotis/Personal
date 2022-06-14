@@ -1,5 +1,5 @@
 ## Summer 2022 Gulf of Mexico Water Quality project 
-Daniel Otis, Vivian Cargille
+Dan Otis, Vivian Cargille
 
 ## Goals: 
 
