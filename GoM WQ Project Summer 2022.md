@@ -1,16 +1,22 @@
 ## Summer 2022 Gulf of Mexico Water Quality project 
 
+Google Drive folder to archive datasets: https://drive.google.com/drive/folders/1cpEVYC_6ccVjWAcrCjKYZiWrWASf8Thk?usp=sharing
+
 ### Goals: 
 
-1. Find and perform quality control on in-situ water quality measurements from the GoM.
+1. Find and perform quality control on in-situ water quality measurements from the GoM. A compiled dataset already exists for South FL.
 
 Filter by: length, currently sampled?, bathymetry, 
 
+In-situ products: Chlorophyll-a, SST (Temp.), Turbidity, CDOM absorption(? - may be hard to find)
+
+Time series criteria: 
+At least 10 years in length
+Presently being sampled is desirable
 
 ### In situ water quality data
-FK: Merged dataset from AOML, which includes AOML, SERC, DERM, DEPECA, BC datasets
+South FL: Merged dataset from AOML, which includes AOML, SERC, DERM, DEPECA, BC datasets
 
-In-situ products: Chlorophyll-a, SST (Temp.), Turbidity, CDOM absorption(?)
 
 
 ### Satellite data:
