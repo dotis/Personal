@@ -6,7 +6,12 @@ Google Drive folder to archive datasets: https://drive.google.com/drive/folders/
 
 1. Find and perform quality control on in-situ water quality measurements from the GoM. A compiled dataset already exists for South FL.
 
-Filter by: length, currently sampled?, bathymetry, 
+Possible sources: G
+COOS https://gcoos.org/
+NDBC (National Data Buoy Center https://www.ndbc.noaa.gov/
+
+
+Filter by: length (10 years+), currently sampled?, bathymetry (threshold?), 
 
 In-situ products: Chlorophyll-a, SST (Temp.), Turbidity, CDOM absorption(? - may be hard to find)
 
