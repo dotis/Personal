@@ -14,11 +14,12 @@ NDBC (National Data Buoy Center) https://www.ndbc.noaa.gov/
 
 USGS NWIS https://waterdata.usgs.gov/nwis
 
-USGS Site codes for WQ data 
+### USGS Site codes for WQ data 
 07374525 - Mississippi River at Belle Chasse, LA
 301528090064600 - Lake Pontchartrain at Causeway near Mandeville, LA
+301001089442600 - Rigolets at Hwy 90 near Slidell, LA
 
-USGS product codes:
+### USGS product codes:
 70953 - Chlorophyll a, phytoplankton, chromatographic-fluorometric method, micrograms per liter 
 71851 - Nitrate, water, filtered, milligrams per liter as nitrate 
 00600 - Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, milligrams per liter 
@@ -27,6 +28,15 @@ USGS product codes:
 70301 - Dissolved solids, water, filtered, sum of constituents, milligrams per liter  
 00530 - Suspended solids, water, unfiltered, milligrams per liter 
 80154 - Suspended sediment concentration, milligrams per liter  
+
+00003 - Sampling depth, feet
+
+curl -o /Users/imars_mbp/Downloads/test_wq.txt 'https://waterdata.usgs.gov/nwis/dv?cb_00600=on&format=rdb&site_no=301528090064600&referred_module=sw&period=&begin_date=1910-01-01'     
+
+WQ Portal (set here for Lk. Ponchartrain and NWIS only - can add STORET and STEWARDS)
+https://www.waterqualitydata.us/#within=10&lat=30.21&long=-90.121&startDateLo=01-01-2003&startDateHi=12-31-2021&mimeType=csv&dataProfile=resultPhysChem&providers=NWIS
+
+Downloads a large .csv file - import into ML as table
 
 Others? Michelle J. at FGBNMS, Katie Shamberger at Texas A&M
 
