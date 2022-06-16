@@ -14,6 +14,20 @@ NDBC (National Data Buoy Center) https://www.ndbc.noaa.gov/
 
 USGS NWIS https://waterdata.usgs.gov/nwis
 
+USGS Site codes for WQ data 
+07374525 - Mississippi River at Belle Chasse, LA
+301528090064600 - Lake Pontchartrain at Causeway near Mandeville, LA
+
+USGS product codes:
+70953 - Chlorophyll a, phytoplankton, chromatographic-fluorometric method, micrograms per liter
+71851 - Nitrate, water, filtered, milligrams per liter as nitrate
+00600 - Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, milligrams per liter
+00665 - Phosphorus, water, unfiltered, milligrams per liter as phosphorus
+00078 - Transparency, water, in situ, Secchi disc, meters
+70301 - Dissolved solids, water, filtered, sum of constituents, milligrams per liter
+00530 - Suspended solids, water, unfiltered, milligrams per liter
+80154 - Suspended sediment concentration, milligrams per liter
+
 Others? Michelle J. at FGBNMS, Katie Shamberger at Texas A&M
 
 Time series criteria: 
