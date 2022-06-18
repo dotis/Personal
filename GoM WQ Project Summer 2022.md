@@ -14,7 +14,7 @@ NDBC (National Data Buoy Center) https://www.ndbc.noaa.gov/
 
 USGS NWIS https://waterdata.usgs.gov/nwis (Mike Lee will email some files from TX)
 
-   
+## Look at seasonality (SST)
 
 WQ Portal (set here for Lk. Ponchartrain and NWIS only - can add STORET and STEWARDS)
 https://www.waterqualitydata.us/#within=10&lat=30.21&long=-90.121&startDateLo=01-01-2003&startDateHi=12-31-2021&mimeType=csv&dataProfile=resultPhysChem&providers=NWIS
