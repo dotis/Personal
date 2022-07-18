@@ -14,6 +14,10 @@ NDBC (National Data Buoy Center) https://www.ndbc.noaa.gov/
 
 USGS NWIS https://waterdata.usgs.gov/nwis (Mike Lee will email some files from TX)
 
+TCEQ - water quality viewer - https://www80.tceq.texas.gov/SwqmisPublic/index.htm
+
+FL Water Atlas - https://wateratlas.usf.edu/
+
 ## Look at seasonality (SST)
 
 WQ Portal (set here for Lk. Ponchartrain and NWIS only - can add STORET and STEWARDS)
