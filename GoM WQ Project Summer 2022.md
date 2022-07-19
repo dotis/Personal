@@ -16,6 +16,8 @@ USGS NWIS https://waterdata.usgs.gov/nwis (Mike Lee will email some files from T
 
 TCEQ - water quality viewer - https://www80.tceq.texas.gov/SwqmisPublic/index.htm
 
+Louisiana DEQ WQ mapper - https://waterdata.deq.louisiana.gov/Projects/WQ1958001
+
 FL Water Atlas - https://wateratlas.usf.edu/
 
 ## Look at seasonality (SST)
@@ -34,6 +36,24 @@ Presently being sampled is desirable
 Filter by: length (10 years+), currently sampled?, bathymetry (threshold?), 
 
 In-situ products: Chlorophyll-a, SST (Temp.), Turbidity, CDOM absorption(? - may be hard to find)
+
+## Tasks
+1. TX Bay TCEQ sites (by "water segment", get a report for each. ML code to plot)
+2. LA DEQ sites, define polygon, get 1 file w/all stations
+3. Extract and plot sat. time series in interesting locations
+4. Summary of each bay/estuary - What in-situ data exists?; what trend(s) are visible in sat and IS data?
+5. New image panels by location.  New Orleans Delta/L. Pontchartrain, Mobile Bay (expand west) , Tampa Bay, Charlotte Harbor, Biscayne Bay
+
+
+
+
+
+## Trends:
+Many areas with positive Chla slopes and negative Rrs667 slopes.
+
+Some interesting areas where this does not happen: 
+
+SW of Vermillion Bay along LA coast (weird area w/positive Rrs667);  Upper reaches of Charlotte Harbor (neg. Rrs667 slopes)
 
 
 
