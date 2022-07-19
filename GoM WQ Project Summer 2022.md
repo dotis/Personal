@@ -12,7 +12,7 @@ GCOOS https://gcoos.org/ (emailed Marion)
 
 NDBC (National Data Buoy Center) https://www.ndbc.noaa.gov/
 
-USGS NWIS https://waterdata.usgs.gov/nwis (Mike Lee will email some files from TX)
+USGS NWIS https://waterdata.usgs.gov/nwis 
 
 TCEQ - water quality viewer - https://www80.tceq.texas.gov/SwqmisPublic/index.htm
 
