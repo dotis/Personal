@@ -20,6 +20,8 @@ Louisiana DEQ WQ mapper - https://waterdata.deq.louisiana.gov/Projects/WQ1958001
 
 FL Water Atlas - https://wateratlas.usf.edu/
 
+Alabama DEP - Can get data through STORET (WQP)
+
 ## Look at seasonality (SST)
 
 WQ Portal (set here for Lk. Ponchartrain and NWIS only - can add STORET and STEWARDS)
