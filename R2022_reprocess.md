@@ -12,11 +12,19 @@
 3. Means - 7D and MO
 
 
-ROI Order:
-1. FK
-2. FGB
-3. WFS
-4. GOM
+ROI Order: Start w/MODIS, then move to VSNPP (VSNPP had issue late July 2022)
+FK (started L3_1D production on Sunday 7/31)
+/fk/L3_1D_MODA_r22/OC,SST4
+
+No IOP, SST, or RRS for FK,FGB (GOM only)
+Run manually through 3/1/2022 when "NRT" files begin
+Backfill NRT files through 7/31/22 on 8/1 (need to remove "NRT" from filenames).
+"Sub" directories will begin 8/1/22.
+
+Next:
+1. FGB
+2. WFS
+3. GOM
 
 ### Other items:
 1. New filenames for L2, keep all else consistent (DOY)
