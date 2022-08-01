@@ -22,7 +22,7 @@ Backfill NRT files through 7/31/22 on 8/1 (need to remove "NRT" from filenames).
 "Sub" directories will begin 8/1/22.
 
 Next:
-1. FGB
+1. FGB (Started MODA OC on Monday 8/1/22)
 2. WFS
 3. GOM
 
