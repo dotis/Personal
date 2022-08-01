@@ -2,8 +2,8 @@
 
 ### Plan:
 1. Download new R2022 L2 files for GOM (/srv/imars-objects/gom/L2_MODA_R2022)
-2. End "main" files on 6/30/2022
-3. Start "sub" folders on 7/1/2022
+2. End "main" files on 7/31/2022
+3. Start "sub" folders on 8/1/2022
 
 ### Order of IMaRS RP Operations
 #### FK (or any ROI)
