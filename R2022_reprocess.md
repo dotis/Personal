@@ -23,9 +23,9 @@ VSNPP SSTN is r2016.2 (checked w/new files - this is the latest)
 
 Just need: 
 
-FK (OC) 
+FK (OC - done) 
 
-FGB (OC)
+FGB (OC - started on 8/2/22)
 
 WFS (OC)
 
