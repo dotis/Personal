@@ -14,7 +14,22 @@
 
 ROI Order: Start w/MODIS, then move to VSNPP (VSNPP had issue late July 2022)
 FK (started L3_1D production on Sunday 7/31)
-/fk/L3_1D_MODA_r22/OC,SST4
+/fk/L3_1D_MODA_r22/OC
+
+SST was not reprocessed in r2022. Filenames already conform to the new standard.
+MODA and VSNPP OC are now r2022.0
+MODA SST4 is r2019.0
+VSNPP SSTN is r2016.2 (checked w/new files - this is the latest)
+
+Just need: 
+
+FK (OC, SST4) 
+
+FGB (OC, SST4)
+
+WFS (OC, SST4)
+
+GOM (OC, SST4, IOP, RRS)
 
 No IOP, SST, or RRS for FK,FGB (GOM only)
 Run manually through 3/1/2022 when "NRT" files begin
