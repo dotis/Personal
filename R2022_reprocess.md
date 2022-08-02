@@ -23,13 +23,13 @@ VSNPP SSTN is r2016.2 (checked w/new files - this is the latest)
 
 Just need: 
 
-FK (OC, SST4) 
+FK (OC) 
 
-FGB (OC, SST4)
+FGB (OC)
 
-WFS (OC, SST4)
+WFS (OC)
 
-GOM (OC, SST4, IOP, RRS)
+GOM (OC, IOP, RRS)
 
 No IOP, SST, or RRS for FK,FGB (GOM only)
 Run manually through 3/1/2022 when "NRT" files begin
