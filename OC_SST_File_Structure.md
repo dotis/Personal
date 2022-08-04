@@ -14,7 +14,6 @@ No updates were made to SST for any platform in r2022
 
 All "Sub" directories should start on 8/6/2022 (First five days of August will finish the 7-D bin at the end of July.
 
-## Or, could move last two days of July to "sub" instead
 
 ### VSNPP (Leave this until safe-mode issue is resolved and new files are produced)
 ### GoM OC(r2018 - keep for now; files are not large):
@@ -23,4 +22,9 @@ All "Sub" directories should start on 8/6/2022 (First five days of August will f
 ### GoM OC(r2022 - waiting....):
 /srv/imars-objects/gom/L2_VSNPP_r2022 (OC, IOP)
 
-
+## CHECKLIST
+1. L2 directory ends on 7/31; "sub" dir starts on 8/1
+2. No weird characters in filenames
+4. Mosaic_1D functions point to correct L2 files
+5. Run full TS, then finish subs (VSNPP sub is empty for now until issue is resolved)
+6. Run 7D, check automation
