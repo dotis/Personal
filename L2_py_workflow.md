@@ -6,7 +6,7 @@
 3. 7-Day/MO means
 
 ## Other Items/issues
-River/buoy data - fetch using bash script w/ML currently. Change to py?
+River/buoy data - fetch using ML to run bash script currently. Change to py?
 SEADAS OCSSW - Check and test install on mangliloo
 ERDDAP - How best to extract time-series from raster data?
 
