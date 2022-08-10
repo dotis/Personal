@@ -117,5 +117,10 @@ Agency Coordinating Lead: Roger B. Griffis, Climate Change Coordinator, NOAA Nat
 
 [11:52 AM] Pablo Méndez-Lazaro (CL)
 
-Roger Puwalrty
+Roger Pulwarty
+
+
+## NOAA NCEI GSOM (Global Summary of the Month)
+Select location, one file with many params is downloaded with monthly data from that site
+Codes for params are available from this file.
 
