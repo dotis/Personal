@@ -1,0 +1,1714 @@
+--2022-09-01 01:00:01--  https://oceandata.sci.gsfc.nasa.gov/api/file_search
+Resolving oceandata.sci.gsfc.nasa.gov... 169.154.128.84, 2001:4d0:2418:128::84
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1769 (1.7K) [text/plain]
+Saving to: “STDOUT”
+
+     0K .                                                     100%  261M=0s
+
+2022-09-01 01:00:03 (261 MB/s) - written to stdout [1769/1769]
+
+--2022-09-01 01:00:03--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220829T175001.L2.OC.NRT.nc
+Resolving oceandata.sci.gsfc.nasa.gov... 169.154.128.84
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220829T175001.L2.OC.NRT.nc [following]
+--2022-09-01 01:00:06--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220829T175001.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:06--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Resolving urs.earthdata.nasa.gov... 198.118.243.33
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=734ebfbfad0569e6c160fdcaed6b09717274df9dc9658fc2a0887b83044e6dbe [following]
+--2022-09-01 01:00:09--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=734ebfbfad0569e6c160fdcaed6b09717274df9dc9658fc2a0887b83044e6dbe
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:09--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=9fe150810f586d5d027edd8a941ca1caf39f1338f21d612c9a378cd50cc6383f [following]
+--2022-09-01 01:00:10--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=9fe150810f586d5d027edd8a941ca1caf39f1338f21d612c9a378cd50cc6383f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:11--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=eccabc95bdbecb27529aa8adf14145705705e6f05824dc86ac7584c344795bbd [following]
+--2022-09-01 01:00:11--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=eccabc95bdbecb27529aa8adf14145705705e6f05824dc86ac7584c344795bbd
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:12--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=31621429e0e6c780fce41c44d436c87a541098fa958e656a20cff96e1b3a263d [following]
+--2022-09-01 01:00:12--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=31621429e0e6c780fce41c44d436c87a541098fa958e656a20cff96e1b3a263d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:12--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=0aa45db3f53026f7129e8214df906a71dd8a06ae19c64295f00e7f182aa0e9bb [following]
+--2022-09-01 01:00:12--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=0aa45db3f53026f7129e8214df906a71dd8a06ae19c64295f00e7f182aa0e9bb
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:12--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=73d1c119333015b059c42c4567010a9021e6c69163640c58d7d731025c0243b0 [following]
+--2022-09-01 01:00:13--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=73d1c119333015b059c42c4567010a9021e6c69163640c58d7d731025c0243b0
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:13--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ff945f0dd1b57c306ea5aa8e30a13c03e377e1a2ff5cf32010a581c98ac9e7f0 [following]
+--2022-09-01 01:00:13--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ff945f0dd1b57c306ea5aa8e30a13c03e377e1a2ff5cf32010a581c98ac9e7f0
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:14--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=63b0e63457d2bc4fe5e3be0e70bde3910dbe71ce5ac8c3ee7db2e487aef79f17 [following]
+--2022-09-01 01:00:14--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=63b0e63457d2bc4fe5e3be0e70bde3910dbe71ce5ac8c3ee7db2e487aef79f17
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:14--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e10b254fbbf0d620c5bcbde2e7b26ef97f7d4f4fe8e11c1ad8b836af178a7e6a [following]
+--2022-09-01 01:00:15--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e10b254fbbf0d620c5bcbde2e7b26ef97f7d4f4fe8e11c1ad8b836af178a7e6a
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:15--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f0aadb3c1955035d3c86573af241b0c6a1c5196c5dae8380ff958d5d6f98f466 [following]
+20 redirections exceeded.
+--2022-09-01 01:00:15--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220829T175001.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220829T175001.L2.SST.NRT.nc [following]
+--2022-09-01 01:00:16--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220829T175001.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:16--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4f2e44bcc61fad8b7c6a1e39b61039ca66002a9271099358666a0b3abe2b13f6 [following]
+--2022-09-01 01:00:16--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4f2e44bcc61fad8b7c6a1e39b61039ca66002a9271099358666a0b3abe2b13f6
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:17--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b4f167fc03f055eed6024a1a32b39a7f6929fb5629c01f9ac3083a55dea80661 [following]
+--2022-09-01 01:00:17--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b4f167fc03f055eed6024a1a32b39a7f6929fb5629c01f9ac3083a55dea80661
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:17--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=df90a92afeca7cbfd82ace3ad1ccb65ca8ad4fa572bd0a8991467b142f0e9d9f [following]
+--2022-09-01 01:00:18--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=df90a92afeca7cbfd82ace3ad1ccb65ca8ad4fa572bd0a8991467b142f0e9d9f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:18--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=47268437d6ab626e0b0cec1df53a514260af186e28a0692d80b34499f85da5e4 [following]
+--2022-09-01 01:00:19--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=47268437d6ab626e0b0cec1df53a514260af186e28a0692d80b34499f85da5e4
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:19--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4b020bdbab1abb7a2f933be1a2a428ea7888b61d96fc796ae7f66391ab9ab2e9 [following]
+--2022-09-01 01:00:19--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4b020bdbab1abb7a2f933be1a2a428ea7888b61d96fc796ae7f66391ab9ab2e9
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:19--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=19b1abf03879be51f5ed049e13e408d1fd099893201ff907b57269ff73f7fb4f [following]
+--2022-09-01 01:00:20--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=19b1abf03879be51f5ed049e13e408d1fd099893201ff907b57269ff73f7fb4f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:20--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4f7456dfb22cd9f503c11ea5527d0665897ed239b73b257cd0c9adde9a250821 [following]
+--2022-09-01 01:00:20--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4f7456dfb22cd9f503c11ea5527d0665897ed239b73b257cd0c9adde9a250821
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:21--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b614442e70d1eb28d39a4e7a95ea2dcba0ebb306a5e7ddafb46e2743d9fbca78 [following]
+--2022-09-01 01:00:21--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b614442e70d1eb28d39a4e7a95ea2dcba0ebb306a5e7ddafb46e2743d9fbca78
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:21--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f99701b7e1a790be2abee58caf587b9eca9359688bff9e7d5db55d014b573e85 [following]
+--2022-09-01 01:00:21--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f99701b7e1a790be2abee58caf587b9eca9359688bff9e7d5db55d014b573e85
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:22--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=86dd2613bd8f191b97eebf12f74bd7599f0c8c4332948666885ba2d04fdd1d6c [following]
+20 redirections exceeded.
+--2022-09-01 01:00:22--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220829T175501.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220829T175501.L2.OC.NRT.nc [following]
+--2022-09-01 01:00:23--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220829T175501.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:23--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c3aed02e04cc8e28c328cfbb8d3d79a7dcc9e65ffdafecf31b8cd5692d8a08a5 [following]
+--2022-09-01 01:00:23--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c3aed02e04cc8e28c328cfbb8d3d79a7dcc9e65ffdafecf31b8cd5692d8a08a5
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:23--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=230825a9d977d01990435963ccc0b2de1ba49777b8e2943fc8b47987bf09cb15 [following]
+--2022-09-01 01:00:24--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=230825a9d977d01990435963ccc0b2de1ba49777b8e2943fc8b47987bf09cb15
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:25--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=09c8660269cf7fc96efcabc5bc79bdeb1b9c467143dc94b6567354c1bbee7679 [following]
+--2022-09-01 01:00:25--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=09c8660269cf7fc96efcabc5bc79bdeb1b9c467143dc94b6567354c1bbee7679
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:25--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2f013c029989f7ce55020e0fd841307c3160443d6eb56845aa10c829d962933d [following]
+--2022-09-01 01:00:26--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2f013c029989f7ce55020e0fd841307c3160443d6eb56845aa10c829d962933d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:26--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8d7a9977c9c231bd500727d4e3b5836326317f43ebf885226aaaae127522648f [following]
+--2022-09-01 01:00:27--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8d7a9977c9c231bd500727d4e3b5836326317f43ebf885226aaaae127522648f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:27--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=21117c9ad62f736afa0dac5def70b521e23e6ff4a58c6376964890728f90ef9b [following]
+--2022-09-01 01:00:28--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=21117c9ad62f736afa0dac5def70b521e23e6ff4a58c6376964890728f90ef9b
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:28--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=184ae20b7db1dc403808c6cfaa15217d32cfd65c542c48bf6e1e13c2d720993f [following]
+--2022-09-01 01:00:28--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=184ae20b7db1dc403808c6cfaa15217d32cfd65c542c48bf6e1e13c2d720993f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:28--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e1924c9f48bda6e96502be472f4975105756a35f638e345004f827099a4e0040 [following]
+--2022-09-01 01:00:29--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e1924c9f48bda6e96502be472f4975105756a35f638e345004f827099a4e0040
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:29--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e1ffd46ab868a43d8edf034545068776a475c02d5cc2dce0ccd692d7cdce79bb [following]
+--2022-09-01 01:00:30--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e1ffd46ab868a43d8edf034545068776a475c02d5cc2dce0ccd692d7cdce79bb
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:30--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=18712456ba872cf4f95508ce978d41a49b640fe6df0c8c2a374dbe0cb77a69d3 [following]
+20 redirections exceeded.
+--2022-09-01 01:00:30--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220829T175501.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220829T175501.L2.SST.NRT.nc [following]
+--2022-09-01 01:00:30--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220829T175501.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:31--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=674b3fc4ef65e677554e78df37ffc9da420af6cdae7dba61abbad271432726bb [following]
+--2022-09-01 01:00:31--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=674b3fc4ef65e677554e78df37ffc9da420af6cdae7dba61abbad271432726bb
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:32--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b1989ffdd8369e96443c709553a399208d1f7d7e3bed8a397704f22d89de5d48 [following]
+--2022-09-01 01:00:32--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b1989ffdd8369e96443c709553a399208d1f7d7e3bed8a397704f22d89de5d48
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:32--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4b1f75cd4e17f52754341f96fe8037c1b33e03ef940d13492c4c266e8f9bc4c7 [following]
+--2022-09-01 01:00:33--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4b1f75cd4e17f52754341f96fe8037c1b33e03ef940d13492c4c266e8f9bc4c7
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:33--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4038a228de0c6b211ad4b9f2a3803107c0d602e2ad22326234acd7bf4c632025 [following]
+--2022-09-01 01:00:34--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4038a228de0c6b211ad4b9f2a3803107c0d602e2ad22326234acd7bf4c632025
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:34--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=fb40001144d4fa835b9864d2ef2244972a63dd38651db5d6bdc979eee291fe5a [following]
+--2022-09-01 01:00:35--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=fb40001144d4fa835b9864d2ef2244972a63dd38651db5d6bdc979eee291fe5a
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:35--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=74ab78027aa130c3be5d27d4239ec7ef6bd86fd6f937a59cd4d49b4fa2b3d867 [following]
+--2022-09-01 01:00:35--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=74ab78027aa130c3be5d27d4239ec7ef6bd86fd6f937a59cd4d49b4fa2b3d867
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:37--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a3b543722d82383acb2598ba7da83e7dcb86d207600abc3ea91ce1ff1410e92a [following]
+--2022-09-01 01:00:37--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a3b543722d82383acb2598ba7da83e7dcb86d207600abc3ea91ce1ff1410e92a
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:37--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=3b3f36eb7e753df02898c54a6255b3122878d6c1f162ec271e0f30649d20f178 [following]
+--2022-09-01 01:00:37--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=3b3f36eb7e753df02898c54a6255b3122878d6c1f162ec271e0f30649d20f178
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:38--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8eaa51dc11a810e7a43fbce18e10111288ace80f1a29aecdb8c6721713fbaf26 [following]
+--2022-09-01 01:00:38--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8eaa51dc11a810e7a43fbce18e10111288ace80f1a29aecdb8c6721713fbaf26
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:38--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8ae4759c710e6b892c48169ff9d732f5aae4162a982f49e03e9040dfc3380598 [following]
+20 redirections exceeded.
+--2022-09-01 01:00:38--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220829T193001.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220829T193001.L2.OC.NRT.nc [following]
+--2022-09-01 01:00:39--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220829T193001.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:39--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f53a87fd2f30bdc57cbc0d58d3557fdb223ab9743ee9561d54372a7844b41c82 [following]
+--2022-09-01 01:00:39--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f53a87fd2f30bdc57cbc0d58d3557fdb223ab9743ee9561d54372a7844b41c82
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:40--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e542aef7f2cef100ce9c28e6203ea715c8ef3087bd9f31363504d5133c37900b [following]
+--2022-09-01 01:00:40--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e542aef7f2cef100ce9c28e6203ea715c8ef3087bd9f31363504d5133c37900b
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:40--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d98d2a931e9c56c2714efec9650f64986e13551ea2158dd07f46c9810d158561 [following]
+--2022-09-01 01:00:40--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d98d2a931e9c56c2714efec9650f64986e13551ea2158dd07f46c9810d158561
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:40--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6630ebf06cab5d8446fcb5a0a4f102a344de2b9bb5e20005b6d9d19bfd0c4a18 [following]
+--2022-09-01 01:00:41--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6630ebf06cab5d8446fcb5a0a4f102a344de2b9bb5e20005b6d9d19bfd0c4a18
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:41--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=452c15e20e72aa48b0396aec0706c1ed223b55676772622af70ef1a39e5258ac [following]
+--2022-09-01 01:00:41--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=452c15e20e72aa48b0396aec0706c1ed223b55676772622af70ef1a39e5258ac
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:41--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8b32d8e548cef42daab967499345be6a836fff9c9032ea282445f9ad7491e1dc [following]
+--2022-09-01 01:00:42--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8b32d8e548cef42daab967499345be6a836fff9c9032ea282445f9ad7491e1dc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:42--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5c4b490baaabbb6f4daa45e3bd7231e4e6d5c2fcf70ecb8cce227417442c5fd6 [following]
+--2022-09-01 01:00:43--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5c4b490baaabbb6f4daa45e3bd7231e4e6d5c2fcf70ecb8cce227417442c5fd6
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:43--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f6d3b10a447ce52158c5c4d8e3f75d809b3ddb82b4dc4907019048662cc06c07 [following]
+--2022-09-01 01:00:43--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f6d3b10a447ce52158c5c4d8e3f75d809b3ddb82b4dc4907019048662cc06c07
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:43--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c9b91d8ec7c2d2648c6a73475eed3cc327aae46c2095c8d5c096034532c81cd1 [following]
+--2022-09-01 01:00:44--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c9b91d8ec7c2d2648c6a73475eed3cc327aae46c2095c8d5c096034532c81cd1
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:44--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e38b8879167e04d038dfd65dca0250d233021e94f585b9ee4bc3c6d184e53081 [following]
+20 redirections exceeded.
+--2022-09-01 01:00:44--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220829T193001.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220829T193001.L2.SST.NRT.nc [following]
+--2022-09-01 01:00:45--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220829T193001.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:45--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=652bfbe48f1ee5cbca33784022f318b8f9a2744800dbd11fa90c1702a4dfec0f [following]
+--2022-09-01 01:00:45--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=652bfbe48f1ee5cbca33784022f318b8f9a2744800dbd11fa90c1702a4dfec0f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:46--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=7568bec582d2e43d897e9f0fa6c28c77a6ac101ec6d2d658a7e8b485b531d3ce [following]
+--2022-09-01 01:00:46--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=7568bec582d2e43d897e9f0fa6c28c77a6ac101ec6d2d658a7e8b485b531d3ce
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:46--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=bd475c708579fc1952b21e543ea9ed058e94ad9b428e059ae14336dae2125be2 [following]
+--2022-09-01 01:00:46--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=bd475c708579fc1952b21e543ea9ed058e94ad9b428e059ae14336dae2125be2
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:47--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e255f95e18803e39bc6079581ecb74cb37bd2403424ba2001a9ca16c45b01107 [following]
+--2022-09-01 01:00:47--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e255f95e18803e39bc6079581ecb74cb37bd2403424ba2001a9ca16c45b01107
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:47--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=744d0ced0c23749e85758cfb348d27e32da095a6ce786f105745f73c0e537338 [following]
+--2022-09-01 01:00:47--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=744d0ced0c23749e85758cfb348d27e32da095a6ce786f105745f73c0e537338
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:48--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8e2ebac5e13c12faba395563a18608c7f89018593ebcccccc3eb93d31b1666b3 [following]
+--2022-09-01 01:00:48--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8e2ebac5e13c12faba395563a18608c7f89018593ebcccccc3eb93d31b1666b3
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:48--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b06c9543719ed977128bdca6a5ed7d5d44662494ed099d79ac8cbeec94960cbb [following]
+--2022-09-01 01:00:49--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b06c9543719ed977128bdca6a5ed7d5d44662494ed099d79ac8cbeec94960cbb
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:49--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5335e27e729ad1e3e725f5d4f4913144812558fa673717f470874c0d6f4d45af [following]
+--2022-09-01 01:00:50--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5335e27e729ad1e3e725f5d4f4913144812558fa673717f470874c0d6f4d45af
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:50--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=32e64a830324e32b8e863dbbf46fd9645c14f38c80cba5c420c2cf181ae12742 [following]
+--2022-09-01 01:00:50--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=32e64a830324e32b8e863dbbf46fd9645c14f38c80cba5c420c2cf181ae12742
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:51--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=15f43a30c3cdadf78ce3b5a2c9bd5bf5673db02204d2ac9f9831a1643bf7dbe8 [following]
+20 redirections exceeded.
+--2022-09-01 01:00:51--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220830T183001.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220830T183001.L2.OC.NRT.nc [following]
+--2022-09-01 01:00:51--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220830T183001.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:51--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=032040a39ad30d67bec7e3ee6e7df2cfba7b91cd50d5c3efcf4dad8af8f5f47e [following]
+--2022-09-01 01:00:52--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=032040a39ad30d67bec7e3ee6e7df2cfba7b91cd50d5c3efcf4dad8af8f5f47e
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:52--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4db2ea2471780e43ea5e32c2606a3985ad2ef8d82d926637c3996927e37a1b7f [following]
+--2022-09-01 01:00:53--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4db2ea2471780e43ea5e32c2606a3985ad2ef8d82d926637c3996927e37a1b7f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:53--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2d16d93234de82ee929bdabfe68acd75ba497041be1b1bb0e944c514d8ad6c49 [following]
+--2022-09-01 01:00:53--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2d16d93234de82ee929bdabfe68acd75ba497041be1b1bb0e944c514d8ad6c49
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:53--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5dc44b7be076543afddc68098f3418dace8820d7cfa005d333c8869e0ec09964 [following]
+--2022-09-01 01:00:54--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5dc44b7be076543afddc68098f3418dace8820d7cfa005d333c8869e0ec09964
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:00:54--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6b3db2a03e26ff38c5423e7f80c2fb16d64dd27bf5616074062490acc995a17c [following]
+--2022-09-01 01:00:54--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6b3db2a03e26ff38c5423e7f80c2fb16d64dd27bf5616074062490acc995a17c
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:54--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=65790951242ed06a13b3b991fa119fb8ae9ba7236d1408dd9c1f698ac810fe29 [following]
+--2022-09-01 01:00:55--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=65790951242ed06a13b3b991fa119fb8ae9ba7236d1408dd9c1f698ac810fe29
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:00:55--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d4d942b5bd473b7000c72ba3726a7972b010098d11abc090bc793df0d1663d70 [following]
+--2022-09-01 01:00:55--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d4d942b5bd473b7000c72ba3726a7972b010098d11abc090bc793df0d1663d70
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:55--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4ed0d3a0a688f4e03d2f204c60eb4be82c2c1aadc3ce7b01c12509cc09465b2d [following]
+--2022-09-01 01:00:56--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4ed0d3a0a688f4e03d2f204c60eb4be82c2c1aadc3ce7b01c12509cc09465b2d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:56--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=1ef3dcd4cb37ab14cf4f7ee968e58e236172403dc1d4325e4598e1f1a4210b23 [following]
+--2022-09-01 01:00:56--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=1ef3dcd4cb37ab14cf4f7ee968e58e236172403dc1d4325e4598e1f1a4210b23
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:56--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=bba565bfbc08eb0251a959106488d4d7c7c8e565b7b57b77eab9cdee48d57650 [following]
+20 redirections exceeded.
+--2022-09-01 01:00:57--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220830T183001.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220830T183001.L2.SST.NRT.nc [following]
+--2022-09-01 01:00:57--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220830T183001.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:57--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=99f90487a4041550e827d8e535c4b7167c3659e683b2c39a5e7ea6a51820cba0 [following]
+--2022-09-01 01:00:58--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=99f90487a4041550e827d8e535c4b7167c3659e683b2c39a5e7ea6a51820cba0
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:58--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4cf94149b03dd223ecf616103c2afd0eedf6a555a56add5037bd85d6820c2df9 [following]
+--2022-09-01 01:00:59--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4cf94149b03dd223ecf616103c2afd0eedf6a555a56add5037bd85d6820c2df9
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:59--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=281f8bb8db1107e75006c925bc730794f79abb793afec67ce60b7d687d3a954b [following]
+--2022-09-01 01:00:59--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=281f8bb8db1107e75006c925bc730794f79abb793afec67ce60b7d687d3a954b
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:00:59--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f371d1481389aef223a95a82fbd2acbe9bdb69dc696586ca5de8180faf5b4cad [following]
+--2022-09-01 01:01:00--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f371d1481389aef223a95a82fbd2acbe9bdb69dc696586ca5de8180faf5b4cad
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:00--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=bfea5d3075c0a5f6141f81a086418c189d5cec5e18e50d96aadda0e039c8f796 [following]
+--2022-09-01 01:01:00--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=bfea5d3075c0a5f6141f81a086418c189d5cec5e18e50d96aadda0e039c8f796
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:00--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=720aaf494279290d2ac9b0819909b38b8b73a3300c2a7f43c8b3bbca418035de [following]
+--2022-09-01 01:01:01--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=720aaf494279290d2ac9b0819909b38b8b73a3300c2a7f43c8b3bbca418035de
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:01--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=3a0a5caed4e139cfc8e03a0d834a19fce25a49132d3eb38f041f66c5bf3ab8d6 [following]
+--2022-09-01 01:01:01--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=3a0a5caed4e139cfc8e03a0d834a19fce25a49132d3eb38f041f66c5bf3ab8d6
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:02--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=33299c84f7ad859dfbc46a1a453643fff7470aa6eff6e7855730c742a3227cde [following]
+--2022-09-01 01:01:02--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=33299c84f7ad859dfbc46a1a453643fff7470aa6eff6e7855730c742a3227cde
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:02--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8781bcc1c3c4a46a46396ff05bf1db824530f260de72333b267616caf92cf88d [following]
+--2022-09-01 01:01:03--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8781bcc1c3c4a46a46396ff05bf1db824530f260de72333b267616caf92cf88d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:03--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5c9157b2bb6a74c421a662d14a612c4d584df70c02fe24af5f3f634b71f02ba9 [following]
+20 redirections exceeded.
+--2022-09-01 01:01:04--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220830T183501.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220830T183501.L2.OC.NRT.nc [following]
+--2022-09-01 01:01:04--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220830T183501.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:04--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=87624320edbbe40b673095c1658d9d942e5bccf202da9676982446582bf153bd [following]
+--2022-09-01 01:01:04--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=87624320edbbe40b673095c1658d9d942e5bccf202da9676982446582bf153bd
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:05--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d713ec9cdf629efc989419bb95c12dc080e04970adbd159b56e0b20bff91ced8 [following]
+--2022-09-01 01:01:05--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d713ec9cdf629efc989419bb95c12dc080e04970adbd159b56e0b20bff91ced8
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:05--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=89dd9fe38b0704cf2b7e2c8569f71118baef70dfb43131cb6aecc1d62cd906b8 [following]
+--2022-09-01 01:01:06--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=89dd9fe38b0704cf2b7e2c8569f71118baef70dfb43131cb6aecc1d62cd906b8
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:06--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=94a9076ffb03eed7e5c8dc12885875349d4b208c62d48110254ae247f0bd964b [following]
+--2022-09-01 01:01:06--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=94a9076ffb03eed7e5c8dc12885875349d4b208c62d48110254ae247f0bd964b
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:06--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=0a5be6c5c2cf64e579ed030f4897a8f91844bbb9b8fec0e745192465ccdfeb3e [following]
+--2022-09-01 01:01:07--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=0a5be6c5c2cf64e579ed030f4897a8f91844bbb9b8fec0e745192465ccdfeb3e
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:07--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=607dbcbd4dbbc60ed60f0e43f91cd17c128e02494710cb7c27234000d2bfcfbe [following]
+--2022-09-01 01:01:07--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=607dbcbd4dbbc60ed60f0e43f91cd17c128e02494710cb7c27234000d2bfcfbe
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:08--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=24840f0afbe8b9d367f1e144e7c1fb7bc09725b9c173eea8c5c10060332b3d71 [following]
+--2022-09-01 01:01:08--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=24840f0afbe8b9d367f1e144e7c1fb7bc09725b9c173eea8c5c10060332b3d71
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:08--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=0b3e5cf05f4c000d1ca2a0c8f92fed255ec36d425076d2d0fd57a8f11660cdf2 [following]
+--2022-09-01 01:01:08--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=0b3e5cf05f4c000d1ca2a0c8f92fed255ec36d425076d2d0fd57a8f11660cdf2
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:09--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=38811d129e809b16e49e1a0d55a936aaaa75fdc3453dac8108341a28f5fcc617 [following]
+--2022-09-01 01:01:09--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=38811d129e809b16e49e1a0d55a936aaaa75fdc3453dac8108341a28f5fcc617
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:10--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d0a8cd95fe95d197bcbac942d6de795e7c5e1312c2df4bf2e421a73edf2cd296 [following]
+20 redirections exceeded.
+--2022-09-01 01:01:10--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220830T183501.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220830T183501.L2.SST.NRT.nc [following]
+--2022-09-01 01:01:10--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220830T183501.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:11--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c33ae074b7c8621913b5aa3d7766c6432b4a2ed6e9e39958dade9d0a6e3716bc [following]
+--2022-09-01 01:01:11--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c33ae074b7c8621913b5aa3d7766c6432b4a2ed6e9e39958dade9d0a6e3716bc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:11--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=9b0da2b87c122243fb48ef0a913a45a596c6e71039c38085552368a5f316ce55 [following]
+--2022-09-01 01:01:12--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=9b0da2b87c122243fb48ef0a913a45a596c6e71039c38085552368a5f316ce55
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:12--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=116eeeb17d82749ac139ac8877899df97ce416f25108cf10ecf6d06d3c9932f0 [following]
+--2022-09-01 01:01:12--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=116eeeb17d82749ac139ac8877899df97ce416f25108cf10ecf6d06d3c9932f0
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:12--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4b11b2f9951eba4ecc043bbb4617105bf1aba346d2a3e20a460901fe842eb636 [following]
+--2022-09-01 01:01:13--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4b11b2f9951eba4ecc043bbb4617105bf1aba346d2a3e20a460901fe842eb636
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:13--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f214386024b597c4e9ad25fa5e5ee2103bd056e6bba685d7e39cc6bb1876bc9e [following]
+--2022-09-01 01:01:14--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f214386024b597c4e9ad25fa5e5ee2103bd056e6bba685d7e39cc6bb1876bc9e
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:14--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ee30e0a034816da93aa80b166987a918924bcb20ba734bd8a823fda3089160ab [following]
+--2022-09-01 01:01:14--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ee30e0a034816da93aa80b166987a918924bcb20ba734bd8a823fda3089160ab
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:14--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=daf7a6404e50a03cc6b415c0b88ecd7701f1c730da05e224e8caca6c26c90f31 [following]
+--2022-09-01 01:01:15--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=daf7a6404e50a03cc6b415c0b88ecd7701f1c730da05e224e8caca6c26c90f31
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:15--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=79a48cf77f5674236784a205afd119dc29d93a511d72d8bb750a1dbf5666603e [following]
+--2022-09-01 01:01:15--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=79a48cf77f5674236784a205afd119dc29d93a511d72d8bb750a1dbf5666603e
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:16--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4fc174eabd053dca4855e3aba0044ee2049da2d8019150cb501dd6414fa06992 [following]
+--2022-09-01 01:01:16--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4fc174eabd053dca4855e3aba0044ee2049da2d8019150cb501dd6414fa06992
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:16--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=82ed67afa46567c8d422fa5bdddd2f40f9183a74d86143ef096265f229913e70 [following]
+20 redirections exceeded.
+--2022-09-01 01:01:16--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220830T201001.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220830T201001.L2.OC.NRT.nc [following]
+--2022-09-01 01:01:17--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220830T201001.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:17--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8e58af39e46c9fe9384bd8d4fa772d193c63226cd367d4634fdc339790629dcc [following]
+--2022-09-01 01:01:17--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8e58af39e46c9fe9384bd8d4fa772d193c63226cd367d4634fdc339790629dcc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:18--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=24f0260985cee4e7c768dfd1648e5716eda31fdfe2fd847fffa5e5cddbfbd8dc [following]
+--2022-09-01 01:01:18--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=24f0260985cee4e7c768dfd1648e5716eda31fdfe2fd847fffa5e5cddbfbd8dc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:18--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d6dee7c131bbac7e7a494feed4494420e3673d0a3ce7e065bdd403343912e701 [following]
+--2022-09-01 01:01:19--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d6dee7c131bbac7e7a494feed4494420e3673d0a3ce7e065bdd403343912e701
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:19--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=1ac29c77272354be738ecc1a4842c6ad91369e1e158e2100f7edac3b93a82752 [following]
+--2022-09-01 01:01:20--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=1ac29c77272354be738ecc1a4842c6ad91369e1e158e2100f7edac3b93a82752
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:20--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=531c8549d2175dc8e6ce1efca3374e3b98829c15d09700ca75815c1951783c36 [following]
+--2022-09-01 01:01:20--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=531c8549d2175dc8e6ce1efca3374e3b98829c15d09700ca75815c1951783c36
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:20--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=46e088d60af752b524d2ff0b04509aaf8295ca0d5558f25062d381fd2684b43b [following]
+--2022-09-01 01:01:21--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=46e088d60af752b524d2ff0b04509aaf8295ca0d5558f25062d381fd2684b43b
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:21--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=de445725e3c79577fdb9505de52d169bd304b4239c5e7aa61283017ea32f6ad4 [following]
+--2022-09-01 01:01:22--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=de445725e3c79577fdb9505de52d169bd304b4239c5e7aa61283017ea32f6ad4
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:22--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6d16b05e102de6311fbade4d611e88eb3fc67e1ba0673ecd194dc828092f74eb [following]
+--2022-09-01 01:01:22--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6d16b05e102de6311fbade4d611e88eb3fc67e1ba0673ecd194dc828092f74eb
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:23--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=23f9950302135541a1954dc4c4c977ddd1e6959d871a65b685d440f51199909f [following]
+--2022-09-01 01:01:23--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=23f9950302135541a1954dc4c4c977ddd1e6959d871a65b685d440f51199909f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:23--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a7e4e2e1291fe8954c21fddbf941a786e035e818442dc1e9465a7fcecbabec62 [following]
+20 redirections exceeded.
+--2022-09-01 01:01:24--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220830T201001.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220830T201001.L2.SST.NRT.nc [following]
+--2022-09-01 01:01:24--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220830T201001.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:24--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d32c40c13ae717f866676d44d3a916a54ccc36f08802eb528ae3b051d03df8ef [following]
+--2022-09-01 01:01:25--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d32c40c13ae717f866676d44d3a916a54ccc36f08802eb528ae3b051d03df8ef
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:25--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ea1a31076881d993fae9ce79d61d663abdd84ab943158f6c3cc1fe9888bdff4b [following]
+--2022-09-01 01:01:26--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ea1a31076881d993fae9ce79d61d663abdd84ab943158f6c3cc1fe9888bdff4b
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:26--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=fd712ffe9431952bdd75bf7c3ac296f8a0d87ff6297b6e9ffd063859094e5d75 [following]
+--2022-09-01 01:01:26--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=fd712ffe9431952bdd75bf7c3ac296f8a0d87ff6297b6e9ffd063859094e5d75
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:27--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2feb01fed4ce3ba9a8fed8ccb842add075362c704a506dd1aeca7ec58dbadeee [following]
+--2022-09-01 01:01:27--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2feb01fed4ce3ba9a8fed8ccb842add075362c704a506dd1aeca7ec58dbadeee
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:27--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=91fa86fae2b3e6bb1797b2e02ff30dae9bdf050fb91bc1d330cc869a15b7380d [following]
+--2022-09-01 01:01:27--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=91fa86fae2b3e6bb1797b2e02ff30dae9bdf050fb91bc1d330cc869a15b7380d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:28--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2c1020e67f963c3f9ff9da3c80e203c4e556f3092e30cef030184aeed84f87da [following]
+--2022-09-01 01:01:28--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2c1020e67f963c3f9ff9da3c80e203c4e556f3092e30cef030184aeed84f87da
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:29--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=0102f6fd2b29ca65a6a93fd9e2d4b5d415b61359853092025bec3cef4949d3fa [following]
+--2022-09-01 01:01:30--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=0102f6fd2b29ca65a6a93fd9e2d4b5d415b61359853092025bec3cef4949d3fa
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:30--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=316e36e45bfafac061fcbe1776b750508b2a3e0c835d0cc68d4f796423da46dc [following]
+--2022-09-01 01:01:31--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=316e36e45bfafac061fcbe1776b750508b2a3e0c835d0cc68d4f796423da46dc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:31--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a915089f0fd34c85ccf2fdd4ca19a1a912ad91700f7e9daa36f4f661d4493dfd [following]
+--2022-09-01 01:01:32--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a915089f0fd34c85ccf2fdd4ca19a1a912ad91700f7e9daa36f4f661d4493dfd
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:32--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=0964235b319c2a794f516497fecb3ebe36a2a9bca57a104b8f5cf71c2f5eb7a7 [following]
+20 redirections exceeded.
+--2022-09-01 01:01:32--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220830T201501.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220830T201501.L2.OC.NRT.nc [following]
+--2022-09-01 01:01:32--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220830T201501.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:33--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a1bae8d513e007cc0c151842274f5e775efec47faef4906179fa713af7830cd5 [following]
+--2022-09-01 01:01:33--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a1bae8d513e007cc0c151842274f5e775efec47faef4906179fa713af7830cd5
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:34--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b036924c54fef7b28c1ea60d99ff80d7100c882493067ed1507553fb35f99519 [following]
+--2022-09-01 01:01:34--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b036924c54fef7b28c1ea60d99ff80d7100c882493067ed1507553fb35f99519
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:34--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d799430de374135caa6890fa6678ebff0bdd2f83f8016274fbf2eae3602f2edd [following]
+--2022-09-01 01:01:34--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d799430de374135caa6890fa6678ebff0bdd2f83f8016274fbf2eae3602f2edd
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:35--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b52c38671709342c280f4d667fe5a369c22edbf59e715c9154b660ce5b2d660d [following]
+--2022-09-01 01:01:35--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b52c38671709342c280f4d667fe5a369c22edbf59e715c9154b660ce5b2d660d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:35--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ecc3c97fa968149004437887a0d7548d978fe599b11f023a0a0b13537af709da [following]
+--2022-09-01 01:01:35--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ecc3c97fa968149004437887a0d7548d978fe599b11f023a0a0b13537af709da
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:36--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=68959946342e5b237a1927b571620d7d197ca1d0573a9d7250fdf5a78147ffad [following]
+--2022-09-01 01:01:36--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=68959946342e5b237a1927b571620d7d197ca1d0573a9d7250fdf5a78147ffad
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:37--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4926fe4a64d1769de2b3f8b51cbee015337f4feaf461d11eb0b37a15f4db2ad0 [following]
+--2022-09-01 01:01:37--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4926fe4a64d1769de2b3f8b51cbee015337f4feaf461d11eb0b37a15f4db2ad0
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:38--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=3a2bff8d120f5d569ee678ff93ba7784df62fb4f356b785791712839eeb63134 [following]
+--2022-09-01 01:01:38--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=3a2bff8d120f5d569ee678ff93ba7784df62fb4f356b785791712839eeb63134
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:38--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=84b28c6345e073ab379b01465a0af250799516c33f5bbcef8a76a80b00b430c0 [following]
+--2022-09-01 01:01:38--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=84b28c6345e073ab379b01465a0af250799516c33f5bbcef8a76a80b00b430c0
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:39--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c70852a2b6143bdb6848f46ecb1532cd9cba28a3c00dabc878de9ee3b1b91b77 [following]
+20 redirections exceeded.
+--2022-09-01 01:01:39--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220830T201501.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220830T201501.L2.SST.NRT.nc [following]
+--2022-09-01 01:01:39--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220830T201501.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:39--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=929b556dd3184b2cadc753c6c99bd555c917a04a19d6aba0d4d9eb1e57775c8f [following]
+--2022-09-01 01:01:40--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=929b556dd3184b2cadc753c6c99bd555c917a04a19d6aba0d4d9eb1e57775c8f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:40--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=15ddaa3aefbf4798e660de1289e2dd81ec0ad5e0ec60cab98f4a9cbb3dc8de20 [following]
+--2022-09-01 01:01:41--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=15ddaa3aefbf4798e660de1289e2dd81ec0ad5e0ec60cab98f4a9cbb3dc8de20
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:41--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=42c423e51c277a7e06b4923ae3006b8ac7ab446591e3c2a7c0712de5e9ce279f [following]
+--2022-09-01 01:01:41--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=42c423e51c277a7e06b4923ae3006b8ac7ab446591e3c2a7c0712de5e9ce279f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:41--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=66d8df829bd8c215e8fcd36d36baa455696b4c132fc63d9694f3b28b32e87117 [following]
+--2022-09-01 01:01:42--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=66d8df829bd8c215e8fcd36d36baa455696b4c132fc63d9694f3b28b32e87117
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:42--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=9f888a6ecad46c743c5a264a47c56eeee1b623a016740288ea235077562a8311 [following]
+--2022-09-01 01:01:42--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=9f888a6ecad46c743c5a264a47c56eeee1b623a016740288ea235077562a8311
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:43--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=36264eca2b8c9e769336c5c564dd2f87bbbac89ceddf5c04652a40332f51d27d [following]
+--2022-09-01 01:01:43--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=36264eca2b8c9e769336c5c564dd2f87bbbac89ceddf5c04652a40332f51d27d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:44--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5eb44ef8e550d7a7380be88cce2978046a1741cdfa5295919be6476fee28da10 [following]
+--2022-09-01 01:01:44--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5eb44ef8e550d7a7380be88cce2978046a1741cdfa5295919be6476fee28da10
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:44--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=21a9807e83ac0f04218b07c7580169a11a72004b4b31c0231f1215f18475431e [following]
+--2022-09-01 01:01:45--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=21a9807e83ac0f04218b07c7580169a11a72004b4b31c0231f1215f18475431e
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:45--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f252ac0286fcc5c4986838591968e504c4421c00b8b871b16129b363ebdf118c [following]
+--2022-09-01 01:01:45--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=f252ac0286fcc5c4986838591968e504c4421c00b8b871b16129b363ebdf118c
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:45--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=4ca7576ed3e76c8dd413b2348c2a12bc30e8d80c233515b2089d40a1ebeb8d32 [following]
+20 redirections exceeded.
+--2022-09-01 01:01:45--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220831T174000.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220831T174000.L2.OC.NRT.nc [following]
+--2022-09-01 01:01:46--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220831T174000.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:46--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=337cee4f89c06b4c307fc994f9b81db3ddadee0753244e99725f0a72de71cb63 [following]
+--2022-09-01 01:01:46--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=337cee4f89c06b4c307fc994f9b81db3ddadee0753244e99725f0a72de71cb63
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:47--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a403d9d82698f41b1a4c000e3175d26546e4b337d721918f8aee37eb57718ae5 [following]
+--2022-09-01 01:01:47--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a403d9d82698f41b1a4c000e3175d26546e4b337d721918f8aee37eb57718ae5
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:47--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=bf1f0e4650f420b91afe7d86672086a84cef610e6f67b2812a1e95c1ab036974 [following]
+--2022-09-01 01:01:48--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=bf1f0e4650f420b91afe7d86672086a84cef610e6f67b2812a1e95c1ab036974
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:48--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=1cd14fd2303edc5d303d6deaf82ee696ce823a73b0b4d3f5e2b55b82a3c7723e [following]
+--2022-09-01 01:01:48--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=1cd14fd2303edc5d303d6deaf82ee696ce823a73b0b4d3f5e2b55b82a3c7723e
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:48--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e587a80de4dea9b8da70fbc76584b9dfaf4e1ffd22ca581426c1a7d142c3043a [following]
+--2022-09-01 01:01:49--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e587a80de4dea9b8da70fbc76584b9dfaf4e1ffd22ca581426c1a7d142c3043a
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:49--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=605e2c24670091d6c464aacca5d1490dbbd1da68fcc20619e84bf3d38ec110ad [following]
+--2022-09-01 01:01:49--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=605e2c24670091d6c464aacca5d1490dbbd1da68fcc20619e84bf3d38ec110ad
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:49--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=79b7c72021687a3be697ff16c564959a34f76db748a6ae2182ae986ce8f8b563 [following]
+--2022-09-01 01:01:50--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=79b7c72021687a3be697ff16c564959a34f76db748a6ae2182ae986ce8f8b563
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:01:50--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=65f84c886c20901def3c85948262d94dc48305b9a1bbad6543ab021f7fab421d [following]
+--2022-09-01 01:01:51--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=65f84c886c20901def3c85948262d94dc48305b9a1bbad6543ab021f7fab421d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:51--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=cf251b1b9121ab7ef74016b5ae3a5f656a4380f549ad94a6ac4e4b677b3f9666 [following]
+--2022-09-01 01:01:51--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=cf251b1b9121ab7ef74016b5ae3a5f656a4380f549ad94a6ac4e4b677b3f9666
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:51--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=be783792fd0760e4aef7ac2e12c0b1aa9beafc13f0d826eaa80cd784c8736967 [following]
+20 redirections exceeded.
+--2022-09-01 01:01:52--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220831T174000.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220831T174000.L2.SST.NRT.nc [following]
+--2022-09-01 01:01:52--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220831T174000.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:53--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=99bef0afdb982a464d66b9b56e793d2a8354aee6bc78c09d5dd4d3bc396e9ce6 [following]
+--2022-09-01 01:01:53--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=99bef0afdb982a464d66b9b56e793d2a8354aee6bc78c09d5dd4d3bc396e9ce6
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:53--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=3646678ed576f3690478a038ae33e37df15e05cd8588d33d393dce0d51ba593c [following]
+--2022-09-01 01:01:53--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=3646678ed576f3690478a038ae33e37df15e05cd8588d33d393dce0d51ba593c
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:54--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6aae36f0dc5eee4d124ab09b6a9e920686f5592a04f1eb17dd98b0f53e7978d9 [following]
+--2022-09-01 01:01:54--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6aae36f0dc5eee4d124ab09b6a9e920686f5592a04f1eb17dd98b0f53e7978d9
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:54--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=48bc61ced095a11c87f0e5092ddf2d92add3cdf441d4c7fb592840f5bf7640c6 [following]
+--2022-09-01 01:01:55--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=48bc61ced095a11c87f0e5092ddf2d92add3cdf441d4c7fb592840f5bf7640c6
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:55--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a9981704b59d60a7041512bc4a017121c2b6c6dd5b34e37b421b23b51e41bb14 [following]
+--2022-09-01 01:01:55--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a9981704b59d60a7041512bc4a017121c2b6c6dd5b34e37b421b23b51e41bb14
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:56--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2b3c95137bae701f23a75baac7fd760045b883a2fc6e0e7cf02a39f9a0c504f8 [following]
+--2022-09-01 01:01:56--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2b3c95137bae701f23a75baac7fd760045b883a2fc6e0e7cf02a39f9a0c504f8
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:01:56--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=757af44816802f0efec313be38fe91bc6bb863d9186ed4bdd9f748aa00a630f4 [following]
+--2022-09-01 01:01:57--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=757af44816802f0efec313be38fe91bc6bb863d9186ed4bdd9f748aa00a630f4
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:57--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=40db014f889d10a375a3c18bd196eeac0e16f30ba34b8968337ff7c06ec4c099 [following]
+--2022-09-01 01:01:57--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=40db014f889d10a375a3c18bd196eeac0e16f30ba34b8968337ff7c06ec4c099
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:58--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6e229bbfc3f51b0ddac7f433a27b378000f86d1b75a432127e6a0c5d7800245d [following]
+--2022-09-01 01:01:59--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=6e229bbfc3f51b0ddac7f433a27b378000f86d1b75a432127e6a0c5d7800245d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:01:59--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=3859718329a8b1bf7b875e2b6cdad3c064aca91fcafaad0c5f309b7cb40e1788 [following]
+20 redirections exceeded.
+--2022-09-01 01:01:59--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220831T191500.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220831T191500.L2.OC.NRT.nc [following]
+--2022-09-01 01:01:59--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220831T191500.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:00--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=89956c79f848742795061dc2792e15b94fa6152c75bf4d5570a60c70a96c7b89 [following]
+--2022-09-01 01:02:00--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=89956c79f848742795061dc2792e15b94fa6152c75bf4d5570a60c70a96c7b89
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:02:00--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=361d4a2107c8b2f90124d77cbea8814ba9bc0217f6b564e78247435f189ebeba [following]
+--2022-09-01 01:02:01--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=361d4a2107c8b2f90124d77cbea8814ba9bc0217f6b564e78247435f189ebeba
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:01--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5cad7019d836e5322de407603b9db68bfffea28e0e69a5bc256fea2012ea24db [following]
+--2022-09-01 01:02:01--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=5cad7019d836e5322de407603b9db68bfffea28e0e69a5bc256fea2012ea24db
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:02--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=449f897dc50ea3abb1aacf996b391ae6a5c7a099fafe5d540b0a913c4aa6219f [following]
+--2022-09-01 01:02:02--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=449f897dc50ea3abb1aacf996b391ae6a5c7a099fafe5d540b0a913c4aa6219f
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:02--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a4761b3fcf537f6b6f1db89a124af5bb6dd9c353b4f630ed200ad307efd6cd89 [following]
+--2022-09-01 01:02:03--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a4761b3fcf537f6b6f1db89a124af5bb6dd9c353b4f630ed200ad307efd6cd89
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:03--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=86cf30b314d04a05e17b2fec41d32c6c693a10d58420bd1598f38acc28035373 [following]
+--2022-09-01 01:02:03--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=86cf30b314d04a05e17b2fec41d32c6c693a10d58420bd1598f38acc28035373
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:03--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=12695bcad386608e647f39dea8aa1c4d6acb3ce713b2904f72695d18c1602d37 [following]
+--2022-09-01 01:02:04--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=12695bcad386608e647f39dea8aa1c4d6acb3ce713b2904f72695d18c1602d37
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:04--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=55ddeabefbf6d112d6c5046ac51e7bcec0ff54bca5d0d45429ab3a7c42df619d [following]
+--2022-09-01 01:02:04--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=55ddeabefbf6d112d6c5046ac51e7bcec0ff54bca5d0d45429ab3a7c42df619d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:05--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e50af2000c7e3bf0673e57a9e7026af2e4460bdb62d20a4096cb85a72fe852d0 [following]
+--2022-09-01 01:02:05--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e50af2000c7e3bf0673e57a9e7026af2e4460bdb62d20a4096cb85a72fe852d0
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:05--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=d75fc87749adaffa2b67a70b4cd348bd13597c23e94324e401b80ac933f98397 [following]
+20 redirections exceeded.
+--2022-09-01 01:02:05--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220831T191500.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220831T191500.L2.SST.NRT.nc [following]
+--2022-09-01 01:02:06--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220831T191500.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:06--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=032a49156261c90fc73831e333d1c108db2bd6f8025ffe13011203168bb017cc [following]
+--2022-09-01 01:02:06--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=032a49156261c90fc73831e333d1c108db2bd6f8025ffe13011203168bb017cc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:06--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=204f266d02563b01f9bd95039b0fa97d5c81b307da42baee86c74aefed0f1381 [following]
+--2022-09-01 01:02:07--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=204f266d02563b01f9bd95039b0fa97d5c81b307da42baee86c74aefed0f1381
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:07--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ece70d9a64a06a963e8218eb53d1de859e219e64d75176987fb855508b972c22 [following]
+--2022-09-01 01:02:07--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ece70d9a64a06a963e8218eb53d1de859e219e64d75176987fb855508b972c22
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:02:07--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=909659805d10c488a1f568a7a621ef013f0a4464e33fe36151964c025ece28c9 [following]
+--2022-09-01 01:02:08--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=909659805d10c488a1f568a7a621ef013f0a4464e33fe36151964c025ece28c9
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:02:08--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=1f74305b2cfc3616ec6f353d271abfa21a28fdc2946ab6cf0be8480f56a0aa4b [following]
+--2022-09-01 01:02:09--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=1f74305b2cfc3616ec6f353d271abfa21a28fdc2946ab6cf0be8480f56a0aa4b
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:09--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=589c0631580c89b8679846ffbf3d22acc90ac772f1c3c85a41657b90ddd75003 [following]
+--2022-09-01 01:02:09--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=589c0631580c89b8679846ffbf3d22acc90ac772f1c3c85a41657b90ddd75003
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:02:09--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=dde506fccd71efdf76bd9955796f3497196b6e90193cd8f481fbdcc44cadd944 [following]
+--2022-09-01 01:02:10--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=dde506fccd71efdf76bd9955796f3497196b6e90193cd8f481fbdcc44cadd944
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:02:10--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2c1c64a5e634af74e6d7be18b21e7ad9f158b128d2b36de6f0be4cd5c2456e6c [following]
+--2022-09-01 01:02:10--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2c1c64a5e634af74e6d7be18b21e7ad9f158b128d2b36de6f0be4cd5c2456e6c
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:10--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ea2ff623449354c4e669e6139c7b4e2885b3eed792beeea292d5b74bb879aa1d [following]
+--2022-09-01 01:02:11--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ea2ff623449354c4e669e6139c7b4e2885b3eed792beeea292d5b74bb879aa1d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:11--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8b566f580f516611d4d112470d48b95b93325195ae438a43280d23a1fcb3d9f8 [following]
+20 redirections exceeded.
+--2022-09-01 01:02:12--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220831T192000.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220831T192000.L2.OC.NRT.nc [following]
+--2022-09-01 01:02:12--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220831T192000.L2.OC.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:12--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=466c452d55f42ac72726a8d2239c9c65c4f9dc8afe164e85d82a74c3de742b4c [following]
+--2022-09-01 01:02:12--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=466c452d55f42ac72726a8d2239c9c65c4f9dc8afe164e85d82a74c3de742b4c
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:13--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b7b0c2b84594fa8eab6c5b8b9907365027044c09bfddc1c6f3b0534d2f214356 [following]
+--2022-09-01 01:02:13--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=b7b0c2b84594fa8eab6c5b8b9907365027044c09bfddc1c6f3b0534d2f214356
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:02:13--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ac7c68176c53a2d86df2a70e2c265ae833bbaedb1abe4005602ba15ea3c0353a [following]
+--2022-09-01 01:02:13--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ac7c68176c53a2d86df2a70e2c265ae833bbaedb1abe4005602ba15ea3c0353a
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:14--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=af484f7dc399b2053fe0a55a3cc9c2d6d72e463182af8b4a181fdb172e158f10 [following]
+--2022-09-01 01:02:14--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=af484f7dc399b2053fe0a55a3cc9c2d6d72e463182af8b4a181fdb172e158f10
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:14--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2ce5c7a8dd7e0d2655725760e00adc4a864d5c7837451c6dfa057efc21bc055d [following]
+--2022-09-01 01:02:14--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=2ce5c7a8dd7e0d2655725760e00adc4a864d5c7837451c6dfa057efc21bc055d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:14--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c3c10dbf53d4e08235ddd6157df3da04edff9a2f7f7c0dcffbf9396fcbc52059 [following]
+--2022-09-01 01:02:15--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c3c10dbf53d4e08235ddd6157df3da04edff9a2f7f7c0dcffbf9396fcbc52059
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:15--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a78204e80ffce61ab9339f34bbca9da35a1ce19fb9f41788bde5dd8c5d7a580c [following]
+--2022-09-01 01:02:15--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=a78204e80ffce61ab9339f34bbca9da35a1ce19fb9f41788bde5dd8c5d7a580c
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code [following]
+--2022-09-01 01:02:15--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=cdfb61d5f0c43d079df656a3b104a46634b0427960fb76713cd50693eba2de87 [following]
+--2022-09-01 01:02:16--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=cdfb61d5f0c43d079df656a3b104a46634b0427960fb76713cd50693eba2de87
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:16--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c333d8cb3a30911fd9d4f454f4ba9f0ff9640bc2eca3bf17bb948e8a35610984 [following]
+--2022-09-01 01:02:16--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c333d8cb3a30911fd9d4f454f4ba9f0ff9640bc2eca3bf17bb948e8a35610984
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:17--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=9602de1be3fe162a7711524e119f5be3d0c7fdf1efe45f51adb8ea70e5efe1e6 [following]
+20 redirections exceeded.
+--2022-09-01 01:02:17--  https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/AQUA_MODIS.20220831T192000.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ob/getfile/AQUA_MODIS.20220831T192000.L2.SST.NRT.nc [following]
+--2022-09-01 01:02:17--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/AQUA_MODIS.20220831T192000.L2.SST.NRT.nc
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:18--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=740b8a3a862f226a549c2bffb06205c1251c6b35efab145b0634b0f59443ce1a [following]
+--2022-09-01 01:02:18--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=740b8a3a862f226a549c2bffb06205c1251c6b35efab145b0634b0f59443ce1a
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:18--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=74c29700304bd439dc7ddf8eafae3f214723994ac9df267aa9454866eb86e19d [following]
+--2022-09-01 01:02:18--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=74c29700304bd439dc7ddf8eafae3f214723994ac9df267aa9454866eb86e19d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:19--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ac4b2de9c77461de899f4809bde5b79942797a41b2384d5ec075978f663b0c08 [following]
+--2022-09-01 01:02:19--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=ac4b2de9c77461de899f4809bde5b79942797a41b2384d5ec075978f663b0c08
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:19--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8bd9ae6b4aa8ca447d53381e734de4389df47943138917da22671fbc6aa8e90d [following]
+--2022-09-01 01:02:20--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=8bd9ae6b4aa8ca447d53381e734de4389df47943138917da22671fbc6aa8e90d
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:20--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=12f8e1068facc8398960bd6ac3ae3c1a63009d33a04b3c6d9d8c14bcd8cb396c [following]
+--2022-09-01 01:02:20--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=12f8e1068facc8398960bd6ac3ae3c1a63009d33a04b3c6d9d8c14bcd8cb396c
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:21--  https://urs.earthdata.nasa.gov/oauth/authorize?redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c74a996e4a1fd9e2b66a99c8676231b15442fb05137872378f285fe947d65bb5 [following]
+--2022-09-01 01:02:22--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=c74a996e4a1fd9e2b66a99c8676231b15442fb05137872378f285fe947d65bb5
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:22--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=612257ab0197d978fcfe6b289b0294e1497ee22f792c3503f4848826e55ce7c8 [following]
+--2022-09-01 01:02:22--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=612257ab0197d978fcfe6b289b0294e1497ee22f792c3503f4848826e55ce7c8
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:22--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=af2910dd85262b770fb5fced0062fd07844b33b2059d4f1d8db5f2aa58af5d10 [following]
+--2022-09-01 01:02:23--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=af2910dd85262b770fb5fced0062fd07844b33b2059d4f1d8db5f2aa58af5d10
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code [following]
+--2022-09-01 01:02:23--  https://urs.earthdata.nasa.gov/oauth/authorize?client_id=Z0u-MdLNypXBjiDREZ3roA&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&response_type=code
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e6c1ab5b7b7104220fb4079c2a9fac6087b4e9cab9d00ec5ef342ad47aee284c [following]
+--2022-09-01 01:02:23--  https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=e6c1ab5b7b7104220fb4079c2a9fac6087b4e9cab9d00ec5ef342ad47aee284c
+Connecting to oceandata.sci.gsfc.nasa.gov|169.154.128.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA [following]
+--2022-09-01 01:02:24--  https://urs.earthdata.nasa.gov/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Foceandata.sci.gsfc.nasa.gov%2Fob%2Fgetfile%2Frestrict&client_id=Z0u-MdLNypXBjiDREZ3roA
+Connecting to urs.earthdata.nasa.gov|198.118.243.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oceandata.sci.gsfc.nasa.gov/ob/getfile/restrict?code=9f6ec380ca265281a8d48573faf601bdfa0587b1be9b845b9052d667323ba696 [following]
+20 redirections exceeded.
+rm: cannot remove `/srv/imars-objects/gom/L2_MODA_sub/*.1': No such file or directory
