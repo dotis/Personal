@@ -21,3 +21,7 @@ Book  "Scale" by Geoffrey West - allometric scaling theory
 Chris Hurley at UBC - Temp loggers, other info from Salish Sea/BC region
 
 Patrick Keys - WAM-2 layers Github for Merra-2 reanalysis
+
+Bryan Pijanowski - Soundscapes in many biomes (including aqautic), ECOSTRESS data in Bangladesh
+
+Catherine Mitchell - Bigelow, looking at zooplankton (calanus) w/OC
