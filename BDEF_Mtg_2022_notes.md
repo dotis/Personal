@@ -25,3 +25,34 @@ Patrick Keys - WAM-2 layers Github for Merra-2 reanalysis
 Bryan Pijanowski - Soundscapes in many biomes (including aqautic), ECOSTRESS data in Bangladesh
 
 Catherine Mitchell - Bigelow, looking at zooplankton (calanus) w/OC
+
+Woody/Keith wrap up:
+
+ESO program (synthesized new missions)
+
+NISAR - radar, 30m, high data volumes
+
+GLIMR - 300m, US East/West coasts (thermal?)
+
+NASA SBG, then ESA CHIME, 30m VSWIR through thermal
+
+AOS - atmospheric sensor - 2 satellites
+
+MC - gravity/deep water, next gen. GRACE
+
+Next meeting - May 8-12; combined meeting
+
+New solicitations:
+
+Ecological Forecasting - two calls
+
+A.51 Applications-oriented Augmentation for Research and Analysis
+Open call through 3/19, 2023
+Related to Applications Guidebook
+
+Keith looking for undergraduate interns - maybe poll my ChemII students?
+
+Go to NASA interns page - look at the BEF section
+
+
+
