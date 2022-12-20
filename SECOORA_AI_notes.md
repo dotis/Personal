@@ -16,3 +16,16 @@ AI workshop Feb 2-3, 2023
 Computer vision for AI
 Caltech course
 https://cv4ecology.caltech.edu/course_details.html 
+
+Spring plan (from Luke on 12/20/22):
+
+    Progress Report additions (Due early Jan)
+    Feb 1-2 Acoustics Workshop, FWRI
+    Axiom Technical meeting, Post-Acoustics Workshop
+
+        Coralnet Follow-up after Axiom meeting
+
+        Evaluate FWC benthic data for Coralnet
+
+    Any additions to resource document
+    April Patagonia pole-to-pole workshop
