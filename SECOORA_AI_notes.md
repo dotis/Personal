@@ -11,7 +11,7 @@ Success stories
 Outreach
 
 
-AI workshop Feb 2-3, 2023
+AI workshop Feb 1-2, 2023
 
 Computer vision for AI
 Caltech course
