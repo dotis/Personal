@@ -1,7 +1,6 @@
-### IMaRS OC/SST 1km MODA/VSNPP file structure
-### UPDATED 1/4/2023
+## IMaRS OC/SST 1km MODA/VSNPP file structure
+### Last Update: 1/4/2023
 
-Last Update: 1/4/2023
 MODA (r2022)
 VSNPP (r2022)
 No updates were made to SST for any platform in r2022
