@@ -1,4 +1,4 @@
-## IMaRS Ocean Color and SST 1-km processing 
+## IMaRS Ocean Color and SST 1-km Level-2 processing 
 ### Updated 1/4/2023
 
 root path for .m files: /home1/dotis/DB_files/DB_v2
