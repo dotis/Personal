@@ -1,6 +1,8 @@
 ## IMaRS Ocean Color and SST 1-km processing 
 ### Updated 1/4/2023
 
+root path for .m files: /home1/dotis/DB_files/DB_v2
+
 New functions have been created for 1D mosaic of MODIS and VIIRS data.
 
 "MOSAIC_1D_func_GOMdb_v2023.m"
