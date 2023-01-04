@@ -19,7 +19,7 @@ All "Sub" directories start on 10/1/2022 (First five days of August will finish 
 ### GoM OC(r2018 - keep for now; files are not large):
 /srv/imars-objects/gom/L2_VSNPP (OC, SST,SST4)
 
-### GoM OC(r2022:
+### GoM OC(r2022)
 /srv/imars-objects/gom/L2_VSNPP_r2022 (OC)
 
 ## CHECKLIST
