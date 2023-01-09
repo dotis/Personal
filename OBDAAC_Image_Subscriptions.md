@@ -28,4 +28,5 @@ For MOST subscription issues, the problem is the cookies file:
 ~/.urs_cookies; need to delete and re-create using this line:
 
 echo "machine urs.earthdata.nasa.gov login USERNAME password PASSWD" > ~/.netrc ; > ~/.urs_cookies
+
 chmod  0600 ~/.netrc
