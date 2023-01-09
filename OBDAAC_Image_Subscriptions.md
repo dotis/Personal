@@ -30,3 +30,5 @@ For MOST subscription issues, the problem is the cookies file:
 echo "machine urs.earthdata.nasa.gov login USERNAME password PASSWD" > ~/.netrc ; > ~/.urs_cookies
 
 chmod  0600 ~/.netrc
+
+The above command needs to be run on a bash shell. This is the first thing to try if subscriptions break.
