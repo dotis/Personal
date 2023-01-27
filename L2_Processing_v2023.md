@@ -23,10 +23,17 @@ This is executed via cron using: "mosaic_1D_GOMdb_v2023_cron.sh"
 
 ### RSYNC to ERDDAP (dune - neeed to use IP instead)
 rsync -hazv /srv/imars-objects/fk/MEAN_7D_MODA/OC/* dotis@131.247.136.200:/mnt/sdb/moda_oc_7d_fk/
+
 rsync -hazv /srv/imars-objects/fk/MEAN_7D_MODA/SST4/* dotis@dune/mnt/sdb/moda_sst4_7d_fk/
+
 rsync -hazv /srv/imars-objects/fk/MEAN_7D_MODA/SST/* dotis@dune/mnt/sdb/moda_sst_7d_fk/
+
 rsync -hazv /srv/imars-objects/fk/MEAN_7D_VSNPP/OC/* dotis@dune/mnt/sdb/vsnpp_oc_7d_fk/
+
 rsync -hazv /srv/imars-objects/fk/MEAN_7D_VSNPP/SSTN/* dotis@dune/mnt/sdb/vsnpp_sstn_7d_fk/
+
 rsync -hazv /srv/imars-objects/fgb/MEAN_7D_MODA/OC/* dotis@dune/mnt/sdb/moda_oc_7d_fgb/
+
 rsync -hazv /srv/imars-objects/fgb/MEAN_7D_MODA/SST4/* dotis@dune/mnt/sdb/moda_sst4_7d_fgb/
+
 rsync -hazv /srv/imars-objects/fgb/MEAN_7D_MODA/SST/* dotis@dune/mnt/sdb/moda_sst_7d_fgb/
