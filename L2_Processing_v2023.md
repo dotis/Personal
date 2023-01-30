@@ -37,3 +37,8 @@ rsync -hazv /srv/imars-objects/fgb/MEAN_7D_MODA/OC/* dotis@dune/mnt/sdb/moda_oc_
 rsync -hazv /srv/imars-objects/fgb/MEAN_7D_MODA/SST4/* dotis@dune/mnt/sdb/moda_sst4_7d_fgb/
 
 rsync -hazv /srv/imars-objects/fgb/MEAN_7D_MODA/SST/* dotis@dune/mnt/sdb/moda_sst_7d_fgb/
+
+### Diagnostic to list most recent file in each 1D and 7D directory for all DB products
+
+/home1/dotis/DB_diag.txt
+
