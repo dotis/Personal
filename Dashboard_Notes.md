@@ -4,6 +4,9 @@
 New Version of Dashboards
 Using R/Quarto w/RStudio + Github
 
+Boards for now:
+1. FKNMS/FGBNMS (images, time series)
+2. NOAA CPO Sanctuaries
 
 
 What do users want?
