@@ -10,10 +10,13 @@ Boards for now:
 
 TODO:
 1. Time series
-2. Page layout
+2. Page layout for each location
 3. Front matter w/image
-4. Navigation (keep it simple for now)
+4. Navigation (keep it simple for now - locations listed along left side)
 5. Get info from ERDDAP datasets (how to set scale, grab dates)
+6. Tabsets: Two types:
+ a. 4x2 panel of most recent images (tab between chlor_a/SST/sscape)
+ b. Each image: tab between mean and anom - not for sscape)
 
 
 
@@ -21,12 +24,12 @@ TODO:
 What else is needed to publish?
 How to set up github actions?
 Why using these GBIF tiles?
+Do we need to pull actual raster data?
 
 
 
 
-
-What do users want?
+### What do users want?
 1-km ocean color imagery?
 climate info?
 
@@ -53,3 +56,5 @@ Can a user click on a time series and an image will generate?
 
 
 ### Meeting w/Jenn Brown 2/3/2023
+Zac Canizzo - looking at climate info needs for each sanctuary.
+How can we provide info?
