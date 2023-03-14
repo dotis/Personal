@@ -58,3 +58,17 @@ Can a user click on a time series and an image will generate?
 ### Meeting w/Jenn Brown 2/3/2023
 Zac Canizzo - looking at climate info needs for each sanctuary.
 How can we provide info?
+
+List of climate hazards from NOAA CVA appendices:
+1. Air temperature
+2. Sea surface temperature
+3. Precipitation
+4. Salinity
+5. Deoxygenation
+6. pH
+7. Sea level rise
+8. Wave action
+9. Upwelling
+10. Currents/mixing/ stratification
+11. Coastal erosion
+
