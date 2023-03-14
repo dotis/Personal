@@ -19,18 +19,24 @@ Presentations:
 Next generation of condition reports have notable improvements - will now include assessment of ecosystem services 
 
 Questions: Josh K. - How can one access the data? Sanctuaries mostly go straight to the PI, some data is synthesized (IEA)
+
 From Jen Brown: @Joshua - that is a great question and one of the thing we are trying to do with the MBON and CPO groups is work on streamlining data access, analysis and display for key indicators that address condition report questions across multiple sanctuaries.
+
 From Jenny Waddell: I don't want to get ahead of ourselves, but here is what we tried to do at OCNMS for ocean climate indicators...as an example https://noaa-onms.github.io/ocnms/ocean-climate.html
+
 @jenny its preferable to use the Sanctuary Watch URL (https://sanctuarywatch.ioos.us/webcr-olympiccoast/ocean-climate) instead of the github URL
 
 2. ZC - climate vulnerability assessment (CVA) - Forward looking from current conditions. These will inform climate informed management plan.
 Vulnerability assessments are not always in sync with condition reports. (Slides HERE). These assessments give information to make decisions.
+
 CVA guide: https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/docs/2023-mpa-climate-vulnerability-assessment-guide.pdf
 
 ZC - Worksheets are in the appendicies of the CVA guidance. The appendicies can be found here --> https://sanctuaries.noaa.gov/media/docs/2023-mpa-climate-vulnerability-assessment-guide-appendices.pdf
+
 From Ginny Selz - While we are transitioning, I'd like to highlight the Climate Observations and Monitoring program manager position (my old position) is currently open and advertised through UCAR. Please share with your networks and any interested individuals. I've added the links to the Announcements section of the Agenda.
 
 3. Sarah Stein - Management Plans: Adaptive management - use outputs from CRs and CVAs to guide management. Every ~5-10 years. Process: Management Plan Review (~3 years to complete). Slides HERE.
+
 From Chris Simoniello: Who is the best person for Jen D and I to contact to request access to the sanctuaries preliminary Climate Assessment report? The information would be tremendously helpful in guiding development of the stakeholder workshop agendas. - Zac C.
 
 
