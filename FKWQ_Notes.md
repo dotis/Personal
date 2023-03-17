@@ -64,4 +64,69 @@ For trend analysis, we need to be much more selective in terms of time periods
 
 
 ### Meeting w/FLDEP on 3/17/23
+Joanna, Luke, Tylar, Tori, Dan, Nick, Omar?
+
+ERDDAP server?
+
+What are FLDEP needs here?
+
+Everything in WIN (Joanna)
+
+Who runs WIN? Joanna does not know.
+
+Need a way to query WIN. How? For what params. The idea would be to move data into a DST, dashboard or other tool.
+
+New group forming in DEP (Everglades group) focused on FL Coral Reef (managers). Just met this week. Will assess what are the needs for a DST or other tool. There will be a sub-group here for data needs that will extend into the fall. Question: can we assess change in WQ due to Everglades restoration?
+
+No large changes to protocols, but assessment of sampling gaps.
+
+Can the FKWQ group help organize or co-lead? Luke - Yes, there is a lot of overlap.
+
+Luke - Ready to reach out to individual groups (data providers)
+
+Meetings of specific programs (data providers). Could do over the next couple of months. 
+
+Identify mangement questions in order of priority. What we need to know vs. what we might want to know. Need to prioritize management questions.
+
+Luke: We could layout options for sampling protocols. 
+
+High level overview of how technology can help these efforts. Satellites used to fill gaps? Can sampling methods can be improved?
+
+Luke: Do we need a storymap or other application to present this high level overview?
+
+USF: can we pull data out of WIN? WIN will remain the ingestion portal. Can we use SEACAR to create reports? Is everything in WIN also in SEACAR? 
+
+Luke: Get a technical workshop for data providers.
+
+SEACAR should have a contact. Everything in WIN is also in SEACAR. What are the boundaries? Does it include FL Bay or only DEP managed areas. 
+
+Brian Weinstein. brian.weinstein@floridadep.gov  WIN contact. Get private account.
+
+May need to modify SOW for this year, but need a scope for next year. 
+
+## Future work (Y4)
+Tori is the contact here for Y4. Need to draft a SOW.
+
+Support and facilitate this new Everglades Group. What are the technical needs. This may take awhile.
+
+Can Karen Bohnsack be involved as a facilitator? Our group can provide technical support. Data? Visualizations?
+
+FCTCT Florida's Coral Reef Coordination Team
+
+Hybrid/virtual meetings (location would be in Miami)
+
+First meeting in mid-April and then early mid-May. Then need some products for a June full team meeting.
+
+What is the output? A tool to query and interact with the Unified WQ dataset. 
+
+A unified reef map for WQ.
+
+Next meeting of FCTCT team is in June. Need something to show progress. Check a small box. Can we see change in WQ based on restoration efforts? Sort of like a status report. 
+
+
+
+
+
+
+
 
