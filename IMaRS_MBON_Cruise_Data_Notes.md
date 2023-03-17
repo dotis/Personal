@@ -8,7 +8,7 @@ What is the best format for this? Can we make a master list that can be queried?
 
 Duplicate CDOM samples on recent cruises. We need to compare, but then AOML can run them going forward. When can we turn over to them.
 
-HPLC data: submitting forms: calibration files, cruise logs, other PDFs, comments (who processed?, COV between samples), some header names have changed.
+For HPLC data we need to submit forms: calibration files, cruise logs, other PDFs, comments (who processed?, COV between samples), some header names have changed.
 
 Sabastian: script to generate headers for SeaBASS sebastian. R Code?
 
