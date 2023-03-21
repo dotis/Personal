@@ -38,7 +38,7 @@ climate info (see list below)
 2. Do we need to serve images, or just extracted time series?
 3. For now, use 1-km images and extracted t-s for FGB and FK.
 4. Need to put extracted time series in "public_html" which is now on manglilloo?
-5. 
+5. Yes, use this link - https://manglillo.marine.usf.edu/~dotis/
 
 ### File Search Info
 File search page is here:
