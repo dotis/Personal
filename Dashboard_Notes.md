@@ -31,7 +31,14 @@ Do we need to pull actual raster data?
 
 ### What do users want?
 1-km ocean color imagery?
-climate info?
+climate info (see list below)
+
+### Global L3 Ocean Color (8D or MO?)
+1. chl_ocx, nflh, sst4, others for general use in any ROI/sanctuary
+2. Do we need to serve images, or just extracted time series?
+3. For now, use 1-km images and extracted t-s for FGB and FK.
+4. Need to put extracted time series in "public_html" which is now on manglilloo?
+5. 
 
 
 
