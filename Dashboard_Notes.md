@@ -40,6 +40,15 @@ climate info (see list below)
 4. Need to put extracted time series in "public_html" which is now on manglilloo?
 5. 
 
+### File Search Info
+File search page is here:
+https://oceandata.sci.gsfc.nasa.gov/api/file_search/
+
+There are a couple of options:
+
+wget -q --post-data="results_as_file=1&sensor_id=7&dtid=1043&sdate=2002-07-04 00:00:00&edate=2023-03-09 19:39:56&subType=1&addurl=1&prod_id=chl_ocx&resolution_id=4km&period=8D" -O - https://oceandata.sci.gsfc.nasa.gov/api/file_search
+
+curl -d "results_as_file=1&sensor_id=7&dtid=1043&sdate=2002-07-04 00:00:00&edate=2023-03-09 19:39:56&subType=1&addurl=1&prod_id=chl_ocx&resolution_id=4km&period=8D" https://oceandata.sci.gsfc.nasa.gov/api/file_search
 
 
 Ideas:
