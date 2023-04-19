@@ -64,7 +64,7 @@ For trend analysis, we need to be much more selective in terms of time periods
 
 
 ### Meeting w/FLDEP on 3/17/23
-Joanna, Luke, Tylar, Tori, Dan, Nick, Omar?
+Joanna, Luke, Tylar, Tori, Dan, Nick
 
 ERDDAP server?
 
@@ -72,7 +72,8 @@ What are FLDEP needs here?
 
 Everything in WIN (Joanna)
 
-Who runs WIN? Joanna does not know.
+Who runs WIN? Joanna does not know. Contact is Brian.Weinstein   (Brian.Weinstein@FloridaDEP.gov)
+
 
 Need a way to query WIN. How? For what params. The idea would be to move data into a DST, dashboard or other tool.
 
