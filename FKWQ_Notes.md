@@ -28,7 +28,7 @@ Sondes are 1-m off the bottom (can’t compare to satellite) – Nick runs that 
 
 Follow up on pH, sal, temp from sondes (work w/Alex F.) – no nutrients
 
-Where to find?  - Not going to include sonde data this year
+Where to find?  - ### Not going to include sonde data this year
 
 DEP funded programs upload data to WIN, which feeds into SEACAR (this is required and seems to work)
 
@@ -123,6 +123,19 @@ A unified reef map for WQ.
 
 Next meeting of FCTCT team is in June. Need something to show progress. Check a small box. Can we see change in WQ based on restoration efforts? Sort of like a status report. 
 
+
+## Meeting on 4/19/23
+
+### SEACAR/WIN Issues/Questions:
+1. Automated retrievals from WIN are not possible. Are the actual data available from SEACAR? Or only the locations/metadata? My notes above from 9/16/22 indicate that data may also be in SEACAR, but that SEACAR does not require NELAC certification. 
+2. Will DEP and more specifically DEAR make appropriate changes to improve the functionality of WIN? Alternatively, can we use SEACAR? Tina said there is a restful API for that. Are data providers also uploading to SEACAR? Or does data uploaded to WIN also go to SEACAR? 
+3. The easiest solution is probably to do data ingestion from providers ourself by develping our own interface, which will allow for automated ingestion of new data, consistent formatting, and streamlined output to visualization and decision support tools. However, this creates another database which will not be explicitly linked to current databases such as WIN and SEACAR.
+4. The bottom line is that the current system of providers uploading to WIN is not particularly functional, as there are mismatches between what was put into WIN and what appears to be available through the interface. In addition, automated retievals via an API are not available from WIN, which precludes automated updates of visualization and decision support tools.
+
+Options:
+1. Add functionality to WIN
+2. Use SEACAR 
+3. Develop our own platform to ingest data from providers and output to data viz. and decision support tools.
 
 
 
