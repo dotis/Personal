@@ -139,22 +139,29 @@ LM - We could help users pull data from these other sites that meet the needed c
 
 EM - How can I relate my project needs to others that have done the same thing? How do I need to format my metadata? How much training data do I need? Can I see some example data? 
 
+FG - High resolution plankton images (manually classified) in AK from tow data. Model is on GH somewhere? Used resnet 50 and image augmentation system. 80/20. 80% for training and 20% for validation.
 
+LM - Where is the model now?
 
+Lambda labs machines - https://lambdalabs.com/service/gpu-cloud?matchtype=p&adgroup=145739817502&feeditemid=&loc_interest_ms=&loc_physical_ms=9028157&network=g&device=c&devicemodel=&adposition=&utm_source=google&utm_campaign=Google_Search_Brand&utm_medium=search&utm_term=lambda%20computing&utm_content=397107687029&hsa_acc=1731978716&hsa_cam=20033599185&hsa_grp=145739817502&hsa_ad=397107687029&hsa_src=g&hsa_tgt=kwd-602946130712&hsa_kw=lambda%20computing&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwjMiiBhA4EiwAZe6jQ6-oKhweD_hGvbtc3VUF8fiDeVZsbrPpbGFqaKpKM49vVVYLrGRDchoClSsQAvD_BwE
 
+Also can use cloud computing on the web (cheap)
 
+FG - The data sources and needs need to be the same in order for things to be used as a template. Hard to share workflow pipeline if needs are different. Lots of iteration is needed. 
 
+EM - This plankton example is a good one. It could be shared on this platform.
 
+DK - I agree with this point. W/good metadata, we make things searchable by metadata. Could have a map of datasets w/metadata. Make datasets and projects discoverable w/o actually hosting the data. 
 
+LM - Do we need to control access? Users would login? Maybe not for searching, but would be needed for upload/download.
 
+EM - A place to discover who is doing what. Social media for ocean AI researchers? A way for researchers to try to stay current with the field.
 
+LM - Event calendar and glossary would be helpful. 
 
+What do we call this? Portal? Discovery Gateway? Digital Library?
 
-
-
-
-
-
+DK - How can we generalize these models across projects? Could this info be in the metadata? If we make models/data discoverable/searchable/sharable, this would be beneficial. 
 
 
 
