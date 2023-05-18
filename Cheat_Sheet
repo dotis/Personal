@@ -1,9 +1,7 @@
 
-Link to fileshare on IMaRS server
+### Link to fileshare on IMaRS server
 
-http://imars.marine.usf.edu/~dotis/MBON_SBA_8D
-
-
+https://manglillo.marine.usf.edu/~dotis/
 
 Update conda:
 conda update -n base -c defaults conda
