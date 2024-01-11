@@ -63,6 +63,17 @@ Abby - We may want to use data that is already shared. That will help us encoura
 NCBI https://www.ncbi.nlm.nih.gov/
 
 
+## Meeting on 1/11/2024
+Attendance: Nathan Furey, Katrin Iken, Franz Mueter, Matt Galaksa, Nick Adams, 
+
+ - Prior version of WG: Plankton/lipid focused
+
+ - Introduce new focus idea (specific project):
+ - Links:
+1. Folder for the Working Group: https://drive.google.com/drive/folders/1pghPfqeEGmSmJ9n-YV6r62-8Nab-19kG
+2. WG Description: https://docs.google.com/document/d/15kfUyH1KB9mJrOQtO4VcXTlNOqzTlna3pLDIfqpsqBM/edit?usp=sharing
+3. Presentation given at last meeting that introduced WG and "what are functional traits": https://docs.google.com/presentation/d/1HFBc5LShlj8vtjN--rCYwa3Daw_ovbef/edit?usp=sharing&ouid=106576169639241757100&rtpof=true&sd=true
+4. Agenda/Notes for today: https://docs.google.com/document/d/1qFmwzUmkr_YT1FqjOI7IR3X8AQKt2_r5/edit?usp=sharing&ouid=106576169639241757100&rtpof=true&sd=true
 
 
 
