@@ -26,6 +26,6 @@ Refs:
 
 
 Slide decks:
-From Chris Parrish - in email
-Rick Stumph - in email
-[Kyle Goodrich TCarta](https://storymaps.arcgis.com/stories/f8728c724d6d4c28ad48fe43aff2c48b)
+ - From Chris Parrish - in email
+ - Rick Stumph - in email
+ - [Kyle Goodrich TCarta](https://storymaps.arcgis.com/stories/f8728c724d6d4c28ad48fe43aff2c48b)
