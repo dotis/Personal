@@ -16,3 +16,9 @@ TODO:
 2. Look over charge questions
 3. Look up refs from Frank, Matt M.
 4. Email Simon Belanger - ask about SDB and habitat mapping in St. Lawrence and that area
+5. Look at ATL24v1 and Chris Parrish at OSU (from M. Hommeyer)
+
+Refs:
+[Frank doc](https://docs.google.com/document/d/10qn7m3T9zr7MpPkKaocdcQkA0FzEV8tO0LqqMXHi8X4/edit)
+[Frank doc longer](https://docs.google.com/document/d/1iY6P_XyTCtWe2NBvozZoRFp_eV_Y379P/edit#heading=h.3q5sasy)
+[Frank slides](https://usf.app.box.com/s/zz49oo4b4x6s33sy6cnii95o6tup3gxk)
