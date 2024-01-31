@@ -29,3 +29,14 @@ Slide decks:
  - From Chris Parrish - in email
  - Rick Stumph - in email
  - [Kyle Goodrich TCarta](https://storymaps.arcgis.com/stories/f8728c724d6d4c28ad48fe43aff2c48b)
+
+## 2nd Talk (Tuesday at 10:45)
+Coastal habitats w/satellites
+1. General info/background on available sensors
+2. Results from Wetlands 3D project
+3. Results from NERRS (Jobos or Rookery Bay) 
+4. Results from Luis (seagrass)
+5. Results from Matt (land use)
+6. Results from Claudia (mangroves)
+   
+ - Change before and after storms
