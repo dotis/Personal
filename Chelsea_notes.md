@@ -24,6 +24,6 @@ Interesting way to plot transect data:
 <img src="https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0" style="width:600px;height:250px;">
 
 
-Equations from Chowdhurry
+Equations from Chowdhurry:
 
 <img src="https://github.com/dotis/Personal/assets/26553741/e44bc03f-ee29-42e5-b26d-7af41f223474" style="width:600px;height:250px;">
