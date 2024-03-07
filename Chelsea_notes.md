@@ -15,7 +15,7 @@
 Transect idea:
 ![image](https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0)
 
-
+<img src="[Isolated.png](https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0)" alt="isolated" width="200"/>
 
 // One method for turbidity calculation from S2 data: (red, red edge) 
 // From Chowdhury et al. 2023 (https://doi.org/10.3389/fmars.2023)
