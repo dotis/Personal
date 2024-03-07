@@ -12,7 +12,7 @@
 
 #### One method for turbidity calculation from S2 data: (red, red edge) 
  - From Chowdhury et al. 2023 (https://doi.org/10.3389/fmars.2023)
- - Look at B4 at 665nm, use B5 if Rrs665
+ - Look at B4 at 665nm and B5 at Rrs665
  - If Rrs665<0.042: Turbidity=TurbidityRrs665
  - If Rrs665>0.042 and Rrs704>0.062: Turbidity=TurbidityRrs704
  - If Rrs665≥0.042 and Rrs704≤0.062: Turbidity = Turbidityweighted
