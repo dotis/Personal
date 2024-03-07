@@ -10,14 +10,14 @@
 7. Display those images from (6) individually and look to see what is going on
 
 
-// One method for turbidity calculation from S2 data: (red, red edge) 
-// From Chowdhury et al. 2023 (https://doi.org/10.3389/fmars.2023)
-// Look at B4 at 665nm, use B5 if Rrs665
-// If Rrs665<0.042: Turbidity=TurbidityRrs665
-// If Rrs665>0.042 and Rrs704>0.062: Turbidity=TurbidityRrs704
-// If Rrs665≥0.042 and Rrs704≤0.062: Turbidity = Turbidityweighted
-// Turbidityweighted=α×TurbidityRrs665+β×TurbidityRrs704
-// α = 0.062−Rrs665/0.062−0.042 , β=1−α
+#### One method for turbidity calculation from S2 data: (red, red edge) 
+From Chowdhury et al. 2023 (https://doi.org/10.3389/fmars.2023)
+Look at B4 at 665nm, use B5 if Rrs665
+If Rrs665<0.042: Turbidity=TurbidityRrs665
+If Rrs665>0.042 and Rrs704>0.062: Turbidity=TurbidityRrs704
+If Rrs665≥0.042 and Rrs704≤0.062: Turbidity = Turbidityweighted
+Turbidityweighted=α×TurbidityRrs665+β×TurbidityRrs704
+α = 0.062−Rrs665/0.062−0.042 , β=1−α
 
 Interesting way to plot transect data:
 
