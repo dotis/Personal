@@ -14,7 +14,7 @@
 
 Interesting way to plot transect data:
 
-<img src="https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0" style="width:600px;height:200px;">
+<img src="https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0" style="width:600px;height:250px;">
 
 
 // One method for turbidity calculation from S2 data: (red, red edge) 
@@ -27,4 +27,4 @@ Interesting way to plot transect data:
 // α = 0.062−Rrs665/0.062−0.042 , β=1−α
 
 
-<img src="https://github.com/dotis/Personal/assets/26553741/e44bc03f-ee29-42e5-b26d-7af41f223474" style="width:600px;height:200px;">
+<img src="https://github.com/dotis/Personal/assets/26553741/e44bc03f-ee29-42e5-b26d-7af41f223474" style="width:600px;height:250px;">
