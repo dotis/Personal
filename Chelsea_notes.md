@@ -12,7 +12,8 @@
 
 
 
-Transect idea:
+Interesting way to plot transect data:
+
 <img src="https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0" style="width:600px;height:200px;">
 
 
