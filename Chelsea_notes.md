@@ -13,9 +13,7 @@
 
 
 Transect idea:
-
-
-<img src="https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0" style="width:800px;height:300px;">
+<img src="https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0" style="width:600px;height:200px;">
 
 
 // One method for turbidity calculation from S2 data: (red, red edge) 
@@ -28,4 +26,4 @@ Transect idea:
 // α = 0.062−Rrs665/0.062−0.042 , β=1−α
 
 
-![image](https://github.com/dotis/Personal/assets/26553741/e44bc03f-ee29-42e5-b26d-7af41f223474)
+<img src="https://github.com/dotis/Personal/assets/26553741/e44bc03f-ee29-42e5-b26d-7af41f223474" style="width:600px;height:200px;">
