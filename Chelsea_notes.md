@@ -10,13 +10,6 @@
 7. Display those images from (6) individually and look to see what is going on
 
 
-
-
-Interesting way to plot transect data:
-
-<img src="https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0" style="width:600px;height:250px;">
-
-
 // One method for turbidity calculation from S2 data: (red, red edge) 
 // From Chowdhury et al. 2023 (https://doi.org/10.3389/fmars.2023)
 // Look at B4 at 665nm, use B5 if Rrs665
@@ -26,5 +19,11 @@ Interesting way to plot transect data:
 // Turbidityweighted=α×TurbidityRrs665+β×TurbidityRrs704
 // α = 0.062−Rrs665/0.062−0.042 , β=1−α
 
+Interesting way to plot transect data:
+
+<img src="https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0" style="width:600px;height:250px;">
+
+
+Equations from Chowdhurry
 
 <img src="https://github.com/dotis/Personal/assets/26553741/e44bc03f-ee29-42e5-b26d-7af41f223474" style="width:600px;height:250px;">
