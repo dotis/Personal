@@ -15,7 +15,7 @@
 Transect idea:
 
 
-<img src="(https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0)" style="width:800px;height:300px;">
+<img src="https://github.com/dotis/Personal/assets/26553741/01bab6ad-cadd-4861-82e8-362e8a6c41c0" style="width:800px;height:300px;">
 
 
 // One method for turbidity calculation from S2 data: (red, red edge) 
