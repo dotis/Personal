@@ -26,4 +26,5 @@ Interesting way to plot transect data:
 
 Equations from Chowdhurry:
 
-<img src="https://github.com/dotis/Personal/assets/26553741/e44bc03f-ee29-42e5-b26d-7af41f223474" style="width:600px;height:300px;">
+<img src="https://github.com/dotis/Personal/assets/26553741/e565c8fb-20c2-4879-bceb-fb9bb9b9e6cf" style="width:600px;height:300px;">
+
