@@ -29,7 +29,8 @@ Equations from Chowdhurry:
 <img src="https://github.com/dotis/Personal/assets/26553741/e565c8fb-20c2-4879-bceb-fb9bb9b9e6cf" style="width:600px;height:300px;">
 
 
-MODIS turbidity files
+
+### MODIS turbidity files
 /srv/imars-objects/tpa_pgs/usvi
 
  - L1A files ordered 4/22/24 to cover PR and USVI (17.5 to 18.9N; -67.5 to -64E)
