@@ -31,8 +31,8 @@ Equations from Chowdhurry:
 
 
 ### MODIS turbidity files
-/srv/imars-objects/tpa_pgs/usvi
+/srv/imars-objects/tpa_pgs/usvi/L3_A250
 
  - L1A files ordered 4/22/24 to cover PR and USVI (17.5 to 18.9N; -67.5 to -64E)
- - Need to process to L2 and then map
+ - Files that won't process: 2020159 - 2022038
 
