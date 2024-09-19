@@ -8,10 +8,10 @@ wget --content-disposition --continue --user=ddotisb3 --password=MontBay3 "https
 Save query in json format, then unpack w/loadjson or other
 
 Or, use dhusget:
-# dhusget.sh [LOGIN OPTIONS]... [SEARCH QUERY OPTIONS]... [SEARCH RESULT OPTIONS]... [DOWNLOAD OPTIONS]...
-# ./dhusget.sh -u ddotisb3 -p MontBay3 -d https://scihub.copernicus.eu/dhus/ -m Sentinel-2 -t 24 -c 25.0,-81.5:26.5,-79.5 -C ./products-list.csv -T S2MSI2A -l 10 -o manifest
+#### dhusget.sh [LOGIN OPTIONS]... [SEARCH QUERY OPTIONS]... [SEARCH RESULT OPTIONS]... [DOWNLOAD OPTIONS]...
+#### ./dhusget.sh -u ddotisb3 -p MontBay3 -d https://scihub.copernicus.eu/dhus/ -m Sentinel-2 -t 24 -c 25.0,-81.5:26.5,-79.5 -C ./products-list.csv -T S2MSI2A -l 10 -o manifest
 
-Tiles for FL Keys:
+#### Tiles for FL Keys:
 1. R054_T17RNJ (BB)
 2. R054_T17RNH (UK)
 3. R054_T17RMH (MK)
