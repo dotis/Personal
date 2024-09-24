@@ -5,18 +5,18 @@
 
 #### Band wavelengths for S2 A and B:
             S2A    S2B
-Lambda(1) = 443    442
-Lambda(2) = 492    492
-Lambda(3) = 560    559
-Lambda(4) = 665    665
-Lambda(5) = 704    704
-Lambda(6) = 740    739
-Lambda(7) = 783    780
-Lambda(8) = 835    835
-Lambda(9) = 865    864
-Lambda(10) = 945   943
-Lambda(11) = 1613  1611
-Lambda(12) = 2200  2184
+Lambda(1) = 443    442  
+Lambda(2) = 492    492  
+Lambda(3) = 560    559  
+Lambda(4) = 665    665   
+Lambda(5) = 704    704  
+Lambda(6) = 740    739  
+Lambda(7) = 783    780  
+Lambda(8) = 835    835  
+Lambda(9) = 865    864  
+Lambda(10) = 945   943  
+Lambda(11) = 1613  1611  
+Lambda(12) = 2200  2184  
 
 Vicarious calibration on S2A only (for now).
 
