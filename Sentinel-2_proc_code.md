@@ -32,5 +32,7 @@ Vicarious calibration on S2A only (for now).
    - Can we filter file orders by tileID and cloud%?
    - How to handle ancillary data? (must use TOMSOMI and NCEP data from NASA; dead link) - Use default for now
    - Flag use? (clouds, cloud shadow, straylight)
-
+7. Analysis:
+ - Extract in small areas (offshore, reef, canals, backcountry)
+ - Can add bandmaths operator and add calculated product(s) - Chl, TSM, other "indices"
 
