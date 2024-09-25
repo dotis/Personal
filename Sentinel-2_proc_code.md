@@ -30,7 +30,7 @@ Vicarious calibration on S2A only (for now).
 5. Prods? - conc_chl, conc_tsm, iop, etc. (limit output as needed - files get BIG)
 6. Questions:
    - Can we filter file orders by tileID and cloud%?
-   - How to handle ancillary met info (download files, climatologies or static values)
+   - How to handle ancillary data? (must use TOMSOMI and NCEP data from NASA; dead link) - Use default for now
    - Flag use? (clouds, cloud shadow, straylight)
 
 
