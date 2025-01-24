@@ -1,4 +1,4 @@
-#### Notes from Private foundation funding workshop
+#### Notes from Private foundation funding workshop 1/24/25
 Andrew Farmer, USF Foundation, Office of Foundation Relations
 andrewfarmer@usf.edu
 
@@ -12,4 +12,3 @@ andrewfarmer@usf.edu
 8. USF Foundation Prospect Research Dept.
 9. No IDC, but can request admin. costs
 10. Can request 1:1 meeting with Andrew or other(s) in the Office of Foundation Relations - email to set up
-11. 
