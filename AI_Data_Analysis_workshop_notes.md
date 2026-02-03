@@ -26,4 +26,11 @@ Julius (see above)
 Envivo (not covered)
 
 
+### Lit review workshop 2/3/26
+1. Scite_ (free trial, then costs money ~$20/month)
+2. Consensus (good for finding papers - may not need to pay), can upload papers
+3. Elicit - Finds and screens papers, provides evidence when summarizing or making points, can upload papers (can be costly for higher tiers and uploads)
+ - Elicit looks at one paper at a time w/summary, needs uploaded papers to generate good content
 
+Many of these tools cannot see all papers (paywalled, etc.) 
+OA papers are normally included
